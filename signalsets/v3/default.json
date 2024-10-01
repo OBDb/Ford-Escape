@@ -13,7 +13,7 @@
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "2816"}, "freq": 5,
   "signals": [
-    {"id": "ESCAPE_TP_RLO", "path": "Tires", "fmt": { "len": 16, "max": 3276, "div": 20, "unit": "psi" }, "name": "Rear left outer tire pressure", "suggestedMetric": "rearRightTirePressure"}
+    {"id": "ESCAPE_TP_RLO", "path": "Tires", "fmt": { "len": 16, "max": 3276, "div": 20, "unit": "psi" }, "name": "Rear left outer tire pressure", "suggestedMetric": "rearLeftTirePressure"}
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "2817"}, "freq": 5,
   "signals": [
