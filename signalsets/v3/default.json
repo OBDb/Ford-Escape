@@ -1,7 +1,7 @@
 { "commands": [
 { "hdr": "726", "rax": "72E", "cmd": {"22": "2813"}, "freq": 5,
   "signals": [
-    {"id": "ESCAPE_TP_FL", "path": "Tires", "fmt": { "len": 16, "max": 3276, "div": 20, "unit": "bars" }, "name": "Front left tire pressure", "suggestedMetric": "frontLeftTirePressure"}
+    {"id": "ESCAPE_TP_FL", "path": "Tires", "fmt": { "len": 16, "max": 3276, "div": 20, "unit": "psi" }, "name": "Front left tire pressure", "suggestedMetric": "frontLeftTirePressure"}
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "2814"}, "freq": 5,
   "signals": [
