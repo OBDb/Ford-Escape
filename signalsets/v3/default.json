@@ -3,6 +3,14 @@
     "signals": [
       {"id": "ESCAPE_ODO", "path": "Trips", "fmt": { "len": 24, "max": 1677721, "div": 10, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
     ]},
+    { "hdr": "720", "rax": "728", "cmd": {"22": "404C"}, "freq": 5,
+  "signals": [
+    {"id": "ESCAPE_TEST_ODO_1", "path": "Trips", "fmt": { "len": 24, "max": 1677721, "div": 10, "unit": "kilometers" }, "name": "Odometer (Instrument panel)", "suggestedMetric": "odometer"}
+  ]},
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "DD01"}, "freq": 5,
+  "signals": [
+    {"id": "ESCAPE_TEST_ODO_2", "path": "Trips", "fmt": { "len": 24, "max": 1677721, "div": 10, "unit": "kilometers" }, "name": "Odometer (Instrument panel)", "suggestedMetric": "odometer"}
+  ]},
   { "hdr": "720", "rax": "728", "cmd": {"22": "6185"}, "freq": 1,
     "signals": [
       {"id": "ESCAPE_FLI", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel tank level", "suggestedMetric": "fuelTankLevel"}
