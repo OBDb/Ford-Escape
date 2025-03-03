@@ -1,11 +1,7 @@
 { "commands": [
-  { "hdr": "720", "rax": "728", "cmd": {"22": "6180"}, "freq": 5,
-    "signals": [
-      {"id": "ESCAPE_ODO", "path": "Trips", "fmt": { "len": 24, "max": 1677721, "div": 10, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
-    ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "DD01"}, "freq": 5,
   "signals": [
-    {"id": "ESCAPE_ODO_2", "path": "Trips", "fmt": { "len": 24, "max": 1677721, "div": 1, "unit": "kilometers" }, "name": "Odometer (Instrument panel)", "suggestedMetric": "odometer"}
+    {"id": "ESCAPE_ODO", "path": "Trips", "fmt": { "len": 24, "max": 1677721, "div": 1, "unit": "kilometers" }, "name": "Odometer (Instrument panel)", "suggestedMetric": "odometer"}
   ]},
   { "hdr": "720", "rax": "728", "cmd": {"22": "6185"}, "freq": 1,
     "signals": [
@@ -76,4 +72,3 @@
     ]}
   ]
   }
-  
