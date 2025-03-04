@@ -65,6 +65,14 @@
           "70": { "description": "Park",    "value": "PARK" }
         }}
     }
+  ]},
+  { "hdr": "726", "cmd": {"22": "C259"}, "freq": 2,
+  "signals": [
+    {"id": "ESCAPE_CENTRAL_LOCK_STATUS", "path": "Doors & Windows", "name": "Lock Status", "fmt": {"len": 8, "map": {
+          "0": { "description": "Unlocked",  "value": "UNLOCKED" },
+          "2": { "description": "Locked",   "value": "LOCKED" }
+        }}
+    }
   ]}
 ]
 }
