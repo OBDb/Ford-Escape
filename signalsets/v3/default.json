@@ -79,7 +79,7 @@
     "cmd": {"22": "7151"},
     "freq": 1,
     "signals": [
-      {"id": "ESCAPE_HIGHBEAM_STATUS", "path": "Lighting", "fmt": { "len": 16, "max": 255}, "name": "Highbeam Status"}
+      {"id": "ESCAPE_HIGHBEAM_STATUS", "path": "Lighting", "fmt": { "len": 16, "max": 255, "unit": "kilometers"}, "name": "Highbeam Status"}
     ]
   },
   {
