@@ -88,7 +88,10 @@
     "cmd": {"22": "4066"},
     "freq": 1,
     "signals": [
-      {"id": "ESCAPE_DRIVER_DOOR_AJAR", "path": "Doors & Windows", "fmt": { "len": 16, "max": 64512, "unit": "kilometers"}, "name": "Driver Door Ajar"}
+      {"id": "ESCAPE_DRIVER_DOOR_AJAR", "path": "Doors & Windows","name": "Driver Door Ajar", "fmt": { "len": 16, "map": {
+          "63488": { "description": "Open",  "value": "OPEN" },
+          "64512": { "description": "Open",   "value": "OPEN" }
+}}}
     ]
   },
     {
