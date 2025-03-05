@@ -90,7 +90,7 @@
     "signals": [
       {"id": "ESCAPE_DRIVER_DOOR_AJAR", "path": "Doors & Windows","name": "Driver Door Ajar", "fmt": { "len": 16, "map": {
           "63488": { "description": "Open",  "value": "OPEN" },
-          "64512": { "description": "Open",   "value": "OPEN" }
+          "64512": { "description": "Closed",   "value": "CLOSED" }
 }}}
     ]
   },
