@@ -79,7 +79,16 @@
     "cmd": {"22": "7151"},
     "freq": 1,
     "signals": [
-      {"id": "ESCAPE_HIGHBEAM_STATUS", "path": "Lighting", "fmt": { "len": 16, "max": 255, "unit": "kilometers"}, "name": "Highbeam Status"}
+      {"id": "ESCAPE_HIGHBEAM_STATUS", "path": "Lighting", "fmt": { "len": 16, "max": 2, "unit": "kilometers"}, "name": "Highbeam Status"}
+    ]
+  },
+
+  {
+    "hdr": "726",
+    "cmd": {"22": "4066"},
+    "freq": 1,
+    "signals": [
+      {"id": "ESCAPE_DRIVER_DOOR_AJAR", "path": "Doors & Windows", "fmt": { "len": 16, "max": 2, "unit": "kilometers"}, "name": "Driver Door Ajar"}
     ]
   },
   {
@@ -336,14 +345,6 @@
     "freq": 1,
     "signals": [
       {"id": "ESCAPE_DEV_32", "path": "DEV", "fmt": { "len": 16, "max": 999999, "unit": "kilometers"}, "name": "Dev 32"}
-    ]
-  },
-  {
-    "hdr": "726",
-    "cmd": {"22": "4066"},
-    "freq": 1,
-    "signals": [
-      {"id": "ESCAPE_DEV_33", "path": "DEV", "fmt": { "len": 16, "max": 999999, "unit": "kilometers"}, "name": "Dev 33"}
     ]
   },
   {
