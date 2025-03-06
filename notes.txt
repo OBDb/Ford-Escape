@@ -1,6 +1,4 @@
-72E037F31 - No Data
-
-
+------------------------------------------------------------
 BCM (Body Control Module) - 726
 PCM (Powertrain Control Module) - 7E0
 TCM (Transmission Control Module) - 7E1
@@ -11,103 +9,25 @@ IC (Instrument Cluster) - 7E5
 HVAC (Heating, Ventilation, and Air Conditioning) - 7E6
 PATS (Passive Anti-Theft System) - 7E7
 EMS (Exhaust Emission System) - 7E8
+--------------------------------------------------------------
 
 
-BCM TESTING:
-Last PID Checked: A0B8
-BCM PIDs with valid response:
-2806
-2810
-2811
-2812
-2813
-2814
-2815
-2816
-2817
-2818
-2819
-2820
-2821
-2828
-2827
-281A
-281C
-281F
-281E
-4006
-4020
-4021
-4025
-4026
-4027
-4028
-4029
-402A
-406B
-406C
-4068
-4067
-4066
-4060
-40A1
-40A2
-40A9
-40B3
-40BD
-40BE
-40C0
-40C1
-40CC
-40CD
-40D1
-40D7
-414B
-414C
-414D
-4120
-4129
-412A
-412D
-412E
-4131
-4132
-4133
-4134
-4135
-4138
-414F
-4156
-4155
-4147
-4148
-4150
-4151
-4176
-4179
-417A
-417B
-4185
-4186
-4187
-4191
-41A1
-41A5
-41A6
-41A7
-41A8
-41A9
-423B
-4227
-4229
-4294
-4295
-42D1
-61BD
-61BC
-61C0
-61C3
-7157
-7151
-7150
-7157
+
+DOORS:
+22C150 Hdr 726
+80000000 - All closed
+80008000 - driver door ajar
+80004000 - Passenger Door Ajar
+80040000 - rear left door ajar
+80080000 - rear right ajar
+80100000 - Trunk Open
+
+HOOD:
+22C154 Hdr 726
+00000000 - Closed
+01000000 - Open
+
+LP Light: (Can be used to check against automatic headlights, LP Light does'nt light up as a standalone light)
+22407E Hdr 726
+DB: Off
+00: On
