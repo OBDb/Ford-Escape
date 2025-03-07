@@ -82,18 +82,6 @@
       {"id": "ESCAPE_HIGHBEAM_STATUS", "path": "Lighting", "fmt": { "len": 16, "max": 2, "unit": "kilometers"}, "name": "Highbeam Status"}
     ]
   },
-
-  {
-    "hdr": "726",
-    "cmd": {"22": "4066"},
-    "freq": 1,
-    "signals": [
-      {"id": "ESCAPE_DRIVER_DOOR_AJAR", "path": "Doors & Windows","name": "Driver Door Ajar", "fmt": { "len": 16, "map": {
-          "63488": { "description": "Open",  "value": "OPEN" },
-          "64512": { "description": "Closed",   "value": "CLOSED" }
-}}}
-    ]
-  },
     {
     "hdr": "726",
     "cmd": {"22": "412A"},
@@ -101,6 +89,30 @@
     "signals": [
       {"id": "ESCAPE_DRIVER_WINDOW", "path": "Doors & Windows", "fmt": { "len": 16, "max": 999999, "unit": "percent"}, "name": "Driver Window"}
     ]
-  }
+  },
+  { "hdr": "726", "cmd": {"22": "C150"}, "freq": 1,
+  "signals": [
+    {"id": "ESCAPE_TRUNK_OPEN", "path": "Doors & Windows", "fmt": { "bix": 11, "len": 1, "max": 1, "unit": "noyes" }, "name": "Trunk Ajar?"}
+  ]},
+  { "hdr": "726", "cmd": {"22": "C150"}, "freq": 1,
+  "signals": [
+    {"id": "ESCAPE_RRD_OPEN", "path": "Doors & Windows", "fmt": { "bix": 12, "len": 1, "max": 1, "unit": "noyes" }, "name": "Rear Right Door Ajar?"}
+  ]},
+  { "hdr": "726", "cmd": {"22": "C150"}, "freq": 1,
+  "signals": [
+    {"id": "ESCAPE_RLD_OPEN", "path": "Doors & Windows", "fmt": { "bix": 13, "len": 1, "max": 1, "unit": "noyes" }, "name": "Rear Left Door Ajar?"}
+  ]},
+  { "hdr": "726", "cmd": {"22": "C150"}, "freq": 1,
+  "signals": [
+    {"id": "ESCAPE_DRIVER_DOOR_OPEN", "path": "Doors & Windows", "fmt": { "bix": 16, "len": 1, "max": 1, "unit": "noyes" }, "name": "Driver Door Ajar"}
+  ]},
+  { "hdr": "726", "cmd": {"22": "C150"}, "freq": 1,
+  "signals": [
+    {"id": "ESCAPE_PASSENGER_DOOR_OPEN", "path": "Doors & Windows", "fmt": { "bix": 17, "len": 1, "max": 1, "unit": "noyes" }, "name": "Passenger Door Ajar?"}
+  ]},
+  { "hdr": "726", "cmd": {"22": "C154"}, "freq": 1,
+  "signals": [
+    {"id": "ESCAPE_HOOD_OPEN", "path": "Doors & Windows", "fmt": { "len": 1, "max": 1, "unit": "noyes" }, "name": "Hood Open?"}
+  ]}
 ]
 }
