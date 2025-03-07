@@ -108,7 +108,7 @@
   ]},
   { "hdr": "726", "cmd": {"22": "C150"}, "freq": 1,
   "signals": [
-    {"id": "ESCAPE_PASSENGER_DOOR_OPEN", "path": "Doors & Windows", "fmt": { "bix": 17, "len": 1, "max": 1, "unit": "noyes" }, "name": "Passenger Door Ajar?"}
+    {"id": "ESCAPE_PDO", "path": "Doors & Windows", "fmt": { "bix": 17, "len": 1, "max": 1, "unit": "noyes" }, "name": "Passenger Door Ajar?"}
   ]},
   { "hdr": "726", "cmd": {"22": "C154"}, "freq": 1,
   "signals": [
