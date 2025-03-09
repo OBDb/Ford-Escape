@@ -101,6 +101,38 @@
   { "hdr": "726", "cmd": {"22": "C154"}, "freq": 1,
   "signals": [
     {"id": "ESCAPE_HOOD_OPEN", "path": "Doors & Windows", "fmt": { "len": 1, "max": 1, "unit": "noyes" }, "name": "Hood Ajar?"}
-  ]}
+  ]},
+  {
+    "hdr": "7D0",
+    "cmd": {"22": "8032"},
+    "freq": 1,
+    "signals": [
+      {"id": "ESCAPE_BT_DEVICE_CONNECTED", "path": "Technology", "fmt": { "len": 16, "max": 999999, "unit": "unknown"}, "name": "Bluetooth Device Connected"}
+    ]
+  },
+  { "hdr": "726", "cmd": {"22": "407E"}, "freq": 2,
+  "signals": [
+    {"id": "ESCAPE_LIGHTING_STATE", "path": "Lighting", "name": "Light State", "description": "Exterior Lighting State", "fmt": {"len": 8, "map": {
+          "DB":  { "description": "OFF",   "value": "DB" },
+          "00":  { "description": "ON",  "value": "00" }
+        }}
+    }
+  ]},
+  {
+    "hdr": "760",
+    "cmd": {"22": "2B00"},
+    "freq": 1,
+    "signals": [
+      {"id": "ESCAPE_PARKING_BRAKE_STATE", "path": "Control", "fmt": { "len": 16, "max": 999999, "unit": "unknown"}, "name": "Parking Brake State"}
+    ]
+  },
+  {
+    "hdr": "726",
+    "cmd": {"22": "4131"},
+    "freq": 1,
+    "signals": [
+      {"id": "ESCAPE_REMOTE_KEYS", "path": "Technology", "fmt": { "len": 16, "max": 999999, "unit": "unknown"}, "name": "How many remote keys are programmed to the vehicle"}
+    ]
+  }
 ]
 }
