@@ -112,7 +112,7 @@
   },
   { "hdr": "726", "cmd": {"22": "407E"}, "freq": 2,
   "signals": [
-    {"id": "ESCAPE_LIGHTING_STATE", "path": "Lighting", "name": "Light State", "description": "Exterior Lighting State", "fmt": {"len": 8, "map": {
+    {"id": "ESCAPE_LIGHTING_STATE", "path": "Lighting", "name": "Light State", "description": "Exterior Lighting State", "fmt": {"len": 8, "max": 999999, "map": {
           "DB":  { "description": "OFF",   "value": "DB" },
           "00":  { "description": "ON",  "value": "00" }
         }}
