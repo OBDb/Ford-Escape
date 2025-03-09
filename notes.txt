@@ -11,23 +11,25 @@ PATS (Passive Anti-Theft System) - 7E7
 EMS (Exhaust Emission System) - 7E8
 --------------------------------------------------------------
 
+Parking brake
+hdr 760
+222B00
+Off: 00000000
+On: 80000000
 
+BT connected
+hdr 7D0
+228032
+Disconnected: 00000000
+Connected: 10000000
 
-DOORS:
-22C150 Hdr 726
-80000000 - All closed
-80008000 - driver door ajar
-80004000 - Passenger Door Ajar
-80040000 - rear left door ajar
-80080000 - rear right ajar
-80100000 - Trunk Open
+Remote key count:
+hdr 726
+224131
+raw amount is correct
 
-HOOD:
-22C154 Hdr 726
-00000000 - Closed
-01000000 - Open
-
-LP Light: (Can be used to check against automatic headlights, LP Light does'nt light up as a standalone light)
-22407E Hdr 726
-DB: Off
-00: On
+Automatic lighting:
+hdr 726
+22407E
+on: D8
+Off: 00
