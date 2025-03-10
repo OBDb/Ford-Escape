@@ -118,8 +118,8 @@
         "unit": "offon",
         "min": 0,
         "map": {
-          "00": 0,
-          "D8": 1
+          "00": { "description": "Off",  "value": "0" },
+        "D8": { "description": "On",   "value": "1" }
         }
       }
     }
