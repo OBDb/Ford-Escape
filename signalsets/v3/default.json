@@ -118,7 +118,7 @@
         "min": 0,
         "map": {
           "00": { "description": "Off",  "value": "0" },
-        "1": { "description": "On",   "value": "D8" }
+        "D8": { "description": "On",   "value": "1" }
         }
       }
     }
