@@ -104,25 +104,6 @@
   ]},
   {
     "hdr": "726",
-    "cmd": { "22": "4131" },
-    "freq": 1,
-    "signals": [
-      {
-        "id": "ESCAPE_REMOTE_KEYS_PROGRAMMED",
-        "name": "Escape Remote Keys Programmed",
-        "path": "Technology",
-        "fmt": {
-          "bix": 0,
-          "len": 1,
-          "max": 255,
-          "min": 0,
-          "unit": "scaler"
-        }
-      }
-    ]
-  },
-  {
-    "hdr": "726",
     "cmd": { "22": "407E" },
     "freq": 1,
     "signals": [
