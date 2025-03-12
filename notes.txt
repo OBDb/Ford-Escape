@@ -1,0 +1,35 @@
+------------------------------------------------------------
+BCM (Body Control Module) - 726
+PCM (Powertrain Control Module) - 7E0
+TCM (Transmission Control Module) - 7E1
+ABS (Anti-lock Braking System) - 7E2
+ECM (Engine Control Module) - 7E3
+SRS (Supplemental Restraint System) - 7E4
+IC (Instrument Cluster) - 7E5
+HVAC (Heating, Ventilation, and Air Conditioning) - 7E6
+PATS (Passive Anti-Theft System) - 7E7
+EMS (Exhaust Emission System) - 7E8
+--------------------------------------------------------------
+
+Parking brake
+hdr 760
+222B00
+Off: 00000000
+On: 80000000
+
+BT connected
+hdr 7D0
+228032
+Disconnected: 00000000
+Connected: 10000000
+
+Remote key count:
+hdr 726
+224131
+raw amount is correct
+
+Automatic lighting:
+hdr 726
+22407E
+on: D8
+Off: 00
