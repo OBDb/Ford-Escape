@@ -1,0 +1,11 @@
+command_id: 760.768.223201
+test_cases:
+- expected_values:
+    ESCAPE_STEER_ANGLE: 587.5
+  response: 768056232015EF8
+- expected_values:
+    ESCAPE_STEER_ANGLE: -790
+  response: 76805623201800C
+- expected_values:
+    ESCAPE_STEER_ANGLE: -656.25
+  response: '768056232019768'
