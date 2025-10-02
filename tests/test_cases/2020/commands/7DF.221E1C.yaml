@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     ESCAPE_TOT: 57.9375
   response: 7E805621E1C039F
+- expected_values:
+    ESCAPE_TOT: 63.8125
+  response: 7E805621E1C03FD
+- expected_values:
+    ESCAPE_TOT: 65.0625
+  response: 7E805621E1C0411
