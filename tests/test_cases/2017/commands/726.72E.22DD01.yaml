@@ -1,0 +1,32 @@
+command_id: 726.72E.22DD01
+test_cases:
+- expected_values:
+    ESCAPE_ODO: 166748
+  response: 72E0662DD01028B5C
+- expected_values:
+    ESCAPE_ODO: 166749
+  response: 72E0662DD01028B5D
+- expected_values:
+    ESCAPE_ODO: 166750
+  response: 72E0662DD01028B5E
+- expected_values:
+    ESCAPE_ODO: 166751
+  response: 72E0662DD01028B5F
+- expected_values:
+    ESCAPE_ODO: 166752
+  response: 72E0662DD01028B60
+- expected_values:
+    ESCAPE_ODO: 166753
+  response: 72E0662DD01028B61
+- expected_values:
+    ESCAPE_ODO: 166754
+  response: 72E0662DD01028B62
+- expected_values:
+    ESCAPE_ODO: 166755
+  response: 72E0662DD01028B63
+- expected_values:
+    ESCAPE_ODO: 166756
+  response: 72E0662DD01028B64
+- expected_values:
+    ESCAPE_ODO: 166757
+  response: 72E0662DD01028B65
