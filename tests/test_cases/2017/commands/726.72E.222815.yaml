@@ -4,29 +4,5 @@ test_cases:
     ESCAPE_TP_RRO: 34.4
   response: 72E0562281502B0
 - expected_values:
-    ESCAPE_TP_RRO: 34.9
-  response: 72E0562281502BA
-- expected_values:
-    ESCAPE_TP_RRO: 35.15
-  response: 72E0562281502BF
-- expected_values:
-    ESCAPE_TP_RRO: 35.4
-  response: 72E0562281502C4
-- expected_values:
-    ESCAPE_TP_RRO: 35.65
-  response: 72E0562281502C9
-- expected_values:
-    ESCAPE_TP_RRO: 35.8
-  response: 72E0562281502CC
-- expected_values:
-    ESCAPE_TP_RRO: 35.9
-  response: 72E0562281502CE
-- expected_values:
-    ESCAPE_TP_RRO: 36.05
-  response: 72E0562281502D1
-- expected_values:
-    ESCAPE_TP_RRO: 36.3
-  response: 72E0562281502D6
-- expected_values:
-    ESCAPE_TP_RRO: 36.55
-  response: 72E0562281502DB
+    ESCAPE_TP_RRO: 37.3
+  response: 72E0562281502EA
