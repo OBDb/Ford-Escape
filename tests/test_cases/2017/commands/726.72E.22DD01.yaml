@@ -4,5 +4,5 @@ test_cases:
     ESCAPE_ODO: 166748
   response: 72E0662DD01028B5C
 - expected_values:
-    ESCAPE_ODO: 166781
-  response: 72E0662DD01028B7D
+    ESCAPE_ODO: 166791
+  response: 72E0662DD01028B87
