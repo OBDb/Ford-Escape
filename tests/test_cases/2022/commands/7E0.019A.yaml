@@ -15,15 +15,51 @@ test_cases:
 - expected_values:
     EHEV_MODE: CSM
     EHEV_MODE_SUP: 1
-    HEV_BATT_A: 56.2
+    HEV_BATT_A: 72.1
     HEV_BATT_A_SUP: 1
-    HEV_BATT_V: 291.5
+    HEV_BATT_V: 287.5
     HEV_BATT_V_SUP: 1
     HEV_MODE: CSM
     HEV_MODE_SUP: 0
   response: |-
-    7E81008419A0E0048E0
-    7E82102320000000000
+    7E81008419A0E0047E0
+    7E82102D10000000000
+- expected_values:
+    EHEV_MODE: CSM
+    EHEV_MODE_SUP: 1
+    HEV_BATT_A: 84
+    HEV_BATT_A_SUP: 1
+    HEV_BATT_V: 288
+    HEV_BATT_V_SUP: 1
+    HEV_MODE: CSM
+    HEV_MODE_SUP: 0
+  response: |-
+    7E81008419A0E004800
+    7E82103480000000000
+- expected_values:
+    EHEV_MODE: CSM
+    EHEV_MODE_SUP: 1
+    HEV_BATT_A: 23.9
+    HEV_BATT_A_SUP: 1
+    HEV_BATT_V: 291
+    HEV_BATT_V_SUP: 1
+    HEV_MODE: CSM
+    HEV_MODE_SUP: 0
+  response: |-
+    7E81008419A0E0048C0
+    7E82100EF0000000000
+- expected_values:
+    EHEV_MODE: CSM
+    EHEV_MODE_SUP: 1
+    HEV_BATT_A: -1
+    HEV_BATT_A_SUP: 1
+    HEV_BATT_V: 293
+    HEV_BATT_V_SUP: 1
+    HEV_MODE: CSM
+    HEV_MODE_SUP: 0
+  response: |-
+    7E81008419A0E004940
+    7E821FFF60000000000
 - expected_values:
     EHEV_MODE: CSM
     EHEV_MODE_SUP: 1
@@ -48,42 +84,6 @@ test_cases:
   response: |-
     7E81008419A0E004960
     7E821FFE00000000000
-- expected_values:
-    EHEV_MODE: CSM
-    EHEV_MODE_SUP: 1
-    HEV_BATT_A: 3.1
-    HEV_BATT_A_SUP: 1
-    HEV_BATT_V: 294.5
-    HEV_BATT_V_SUP: 1
-    HEV_MODE: CSM
-    HEV_MODE_SUP: 0
-  response: |-
-    7E81008419A0E0049A0
-    7E821001F0000000000
-- expected_values:
-    EHEV_MODE: CSM
-    EHEV_MODE_SUP: 1
-    HEV_BATT_A: -0.2
-    HEV_BATT_A_SUP: 1
-    HEV_BATT_V: 294.5
-    HEV_BATT_V_SUP: 1
-    HEV_MODE: CSM
-    HEV_MODE_SUP: 0
-  response: |-
-    7E81008419A0E0049A0
-    7E821FFFE0000000000
-- expected_values:
-    EHEV_MODE: CSM
-    EHEV_MODE_SUP: 1
-    HEV_BATT_A: 2.6
-    HEV_BATT_A_SUP: 1
-    HEV_BATT_V: 296
-    HEV_BATT_V_SUP: 1
-    HEV_MODE: CSM
-    HEV_MODE_SUP: 0
-  response: |-
-    7E81008419A0E004A00
-    7E821001A0000000000
 - expected_values:
     EHEV_MODE: CSM
     EHEV_MODE_SUP: 1
