@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2203CA
+test_cases:
+- expected_values:
+    ESCAPE_MCT: 69
+  response: 7E8046203CA45
+- expected_values:
+    ESCAPE_MCT: 70
+  response: 7E8046203CA46
+- expected_values:
+    ESCAPE_MCT: 71
+  response: 7E8046203CA47
+- expected_values:
+    ESCAPE_MCT: 73
+  response: 7E8046203CA49
+- expected_values:
+    ESCAPE_MCT: 93
+  response: 7E8046203CA5D
+- expected_values:
+    ESCAPE_MCT: 94
+  response: 7E8046203CA5E
+- expected_values:
+    ESCAPE_MCT: 95
+  response: 7E8046203CA5F

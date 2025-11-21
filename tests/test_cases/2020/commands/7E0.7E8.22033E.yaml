@@ -1,8 +1,14 @@
 command_id: 7E0.7E8.22033E
 test_cases:
 - expected_values:
+    ESCAPE_TIP_ABS: 14.32822
+  response: 7E80562033E3296
+- expected_values:
+    ESCAPE_TIP_ABS: 14.43112
+  response: 7E80562033E32F3
+- expected_values:
     ESCAPE_TIP_ABS: 14.45435
   response: 7E80562033E3308
 - expected_values:
-    ESCAPE_TIP_ABS: 17.01352
-  response: 7E80562033E3C11
+    ESCAPE_TIP_ABS: 24.26393
+  response: 7E80562033E55AA

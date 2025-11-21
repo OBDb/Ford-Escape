@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.2203BB
+test_cases:
+- expected_values:
+    ESCAPE_VCT_EXH_DES: 0
+  response: 7E8056203BB0000
+- expected_values:
+    ESCAPE_VCT_EXH_DES: 4.75
+  response: 7E8056203BB004C
+- expected_values:
+    ESCAPE_VCT_EXH_DES: 21.375
+  response: 7E8056203BB0156
+- expected_values:
+    ESCAPE_VCT_EXH_DES: 22.25
+  response: 7E8056203BB0164
+- expected_values:
+    ESCAPE_VCT_EXH_DES: 24.9375
+  response: 7E8056203BB018F
+- expected_values:
+    ESCAPE_VCT_EXH_DES: 25
+  response: 7E8056203BB0190
+- expected_values:
+    ESCAPE_VCT_EXH_DES: 26.625
+  response: 7E8056203BB01AA
+- expected_values:
+    ESCAPE_VCT_EXH_DES: 30.125
+  response: 7E8056203BB01E2
+- expected_values:
+    ESCAPE_VCT_EXH_DES: 36.8125
+  response: 7E8056203BB024D

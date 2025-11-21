@@ -50,6 +50,7 @@ supported_commands_by_ecu:
   - 0153:EVAP_VPA
   - 0154:EVAP_VP_WIDE
   - 0156:LGSO2FT1
+  - 015C:EOT
   - 015E:FUEL_RATE
   - 0162:TQ_ACT
   - 0163:TQ_REF
