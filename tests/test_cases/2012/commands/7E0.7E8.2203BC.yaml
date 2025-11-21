@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2203BC
+test_cases:
+- expected_values:
+    ESCAPE_VCT_INT_DES: 0
+  response: 7E8056203BC0000
+- expected_values:
+    ESCAPE_VCT_INT_DES: -13.8125
+  response: 7E8056203BCFF23
+- expected_values:
+    ESCAPE_VCT_INT_DES: -10
+  response: 7E8056203BCFF60
+- expected_values:
+    ESCAPE_VCT_INT_DES: -9.5625
+  response: 7E8056203BCFF67
+- expected_values:
+    ESCAPE_VCT_INT_DES: -6
+  response: 7E8056203BCFFA0
+- expected_values:
+    ESCAPE_VCT_INT_DES: -4.5625
+  response: 7E8056203BCFFB7
+- expected_values:
+    ESCAPE_VCT_INT_DES: -3.25
+  response: 7E8056203BCFFCC
+- expected_values:
+    ESCAPE_VCT_INT_DES: -0.4375
+  response: 7E8056203BCFFF9

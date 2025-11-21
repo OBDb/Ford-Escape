@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.220338
+test_cases:
+- expected_values:
+    ESCAPE_ETC_TRIM_LRN: 0.43555
+  response: 7E80562033800DF
+- expected_values:
+    ESCAPE_ETC_TRIM_LRN: 0.4375
+  response: 7E80562033800E0
+- expected_values:
+    ESCAPE_ETC_TRIM_LRN: 0.43945
+  response: 7E80562033800E1
+- expected_values:
+    ESCAPE_ETC_TRIM_LRN: 0.44336
+  response: 7E80562033800E3
+- expected_values:
+    ESCAPE_ETC_TRIM_LRN: 0.45508
+  response: 7E80562033800E9
