@@ -4,5 +4,5 @@ test_cases:
     ESCAPE_TIP_V: 1.50879
   response: 7E80562033C0135
 - expected_values:
-    ESCAPE_TIP_V: 2.22168
-  response: 7E80562033C01C7
+    ESCAPE_TIP_V: 2.49512
+  response: 7E80562033C01FF

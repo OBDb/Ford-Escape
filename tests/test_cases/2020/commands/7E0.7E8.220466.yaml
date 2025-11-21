@@ -4,11 +4,11 @@ test_cases:
     ESCAPE_TIP_DES_ABS: 14.05161
   response: 7E805620466319C
 - expected_values:
-    ESCAPE_TIP_DES_ABS: 14.10251
-  response: 7E80562046631CA
-- expected_values:
     ESCAPE_TIP_DES_ABS: 17.30783
   response: 7E8056204663D1B
+- expected_values:
+    ESCAPE_TIP_DES_ABS: 24.34359
+  response: 7E80562046655F2
 - expected_values:
     ESCAPE_TIP_DES_ABS: 25.09928
   response: 7E805620466589D
