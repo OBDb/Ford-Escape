@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22054D
+test_cases:
+- expected_values:
+    ESCAPE_LPFP_SENS_V: 1.68652
+  response: 7E80562054D06BF
+- expected_values:
+    ESCAPE_LPFP_SENS_V: 1.82031
+  response: 7E80562054D0748
+- expected_values:
+    ESCAPE_LPFP_SENS_V: 2.02148
+  response: 7E80562054D0816
