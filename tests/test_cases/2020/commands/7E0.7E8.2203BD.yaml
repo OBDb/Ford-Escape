@@ -4,8 +4,8 @@ test_cases:
     ESCAPE_CL_LC: 0
   response: 7E8056203BD0000
 - expected_values:
-    ESCAPE_CL_LC: -0.01855
-  response: 7E8056203BDFF68
+    ESCAPE_CL_LC: -0.02478
+  response: 7E8056203BDFF35
 - expected_values:
-    ESCAPE_CL_LC: -0.00781
-  response: 7E8056203BDFFC0
+    ESCAPE_CL_LC: -0.00342
+  response: 7E8056203BDFFE4
