@@ -4,8 +4,5 @@ test_cases:
     ESCAPE_PCM_VEH_ODO: 72123.1
   response: 7E80762F4A6000B014F
 - expected_values:
-    ESCAPE_PCM_VEH_ODO: 72123.2
-  response: 7E80762F4A6000B0150
-- expected_values:
-    ESCAPE_PCM_VEH_ODO: 72123.4
-  response: 7E80762F4A6000B0152
+    ESCAPE_PCM_VEH_ODO: 72140.2
+  response: 7E80762F4A6000B01FA

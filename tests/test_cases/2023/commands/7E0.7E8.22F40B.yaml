@@ -4,5 +4,5 @@ test_cases:
     ESCAPE_MAP: 4.06109
   response: 7E80462F40B1C
 - expected_values:
-    ESCAPE_MAP: 9.28249
-  response: 7E80462F40B40
+    ESCAPE_MAP: 17.54971
+  response: 7E80462F40B79

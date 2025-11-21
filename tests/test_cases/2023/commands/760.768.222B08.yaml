@@ -4,8 +4,5 @@ test_cases:
     ESCAPE_RR_VSS: 0
   response: 76804622B0800
 - expected_values:
-    ESCAPE_RR_VSS: 21
-  response: 76804622B0815
-- expected_values:
-    ESCAPE_RR_VSS: 27
-  response: 76804622B081B
+    ESCAPE_RR_VSS: 122
+  response: 76804622B087A
