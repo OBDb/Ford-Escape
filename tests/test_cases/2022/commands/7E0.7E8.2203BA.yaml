@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2203BA
+test_cases:
+- expected_values:
+    ESCAPE_AAT_V: 3.00098
+  response: 7E8056203BA0266
+- expected_values:
+    ESCAPE_AAT_V: 3.30401
+  response: 7E8056203BA02A4

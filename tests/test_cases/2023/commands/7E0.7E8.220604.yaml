@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220604
 test_cases:
 - expected_values:
-    ESCAPE_PCM_A_C_REFRIG_P: 567
-  response: '7E8056206040237'
+    ESCAPE_PCM_A_C_REFRIG_P: 566
+  response: '7E8056206040236'
 - expected_values:
-    ESCAPE_PCM_A_C_REFRIG_P: 568
-  response: '7E8056206040238'
+    ESCAPE_PCM_A_C_REFRIG_P: 727
+  response: 7E80562060402D7
 - expected_values:
-    ESCAPE_PCM_A_C_REFRIG_P: 573
-  response: 7E805620604023D
+    ESCAPE_PCM_A_C_REFRIG_P: 778
+  response: 7E805620604030A
