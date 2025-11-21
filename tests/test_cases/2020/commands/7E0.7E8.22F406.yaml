@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F406
 test_cases:
 - expected_values:
-    ESCAPE_STFT: -7.8125
-  response: 7E80462F40676
+    ESCAPE_STFT: -15.625
+  response: 7E80462F4066C
 - expected_values:
-    ESCAPE_STFT: 7.03125
-  response: 7E80462F40689
+    ESCAPE_STFT: 9.375
+  response: 7E80462F4068C

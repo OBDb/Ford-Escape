@@ -4,5 +4,5 @@ test_cases:
     ESCAPE_ENG_LOAD_PCT: 8.23529
   response: 7E80462F40415
 - expected_values:
-    ESCAPE_ENG_LOAD_PCT: 87.05882
-  response: 7E80462F404DE
+    ESCAPE_ENG_LOAD_PCT: 98.82353
+  response: 7E80462F404FC
