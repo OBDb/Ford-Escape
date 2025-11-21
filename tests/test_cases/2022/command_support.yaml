@@ -106,7 +106,7 @@ supported_commands_by_ecu:
   - 0149:APP_D
 unsupported_commands_by_ecu:
   "720":
-  - 720.728.226185:ESCAPE_FLI
+  - 720.728.226185:ESCAPE_FLI_ALT
   "726":
   - 726.72E.22DD01:ESCAPE_ODO
   "760":
