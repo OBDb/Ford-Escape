@@ -57,6 +57,6 @@ supported_commands_by_ecu:
   - 7E0.7E8.221E23:ESCAPE_GEAR_SHFT
 unsupported_commands_by_ecu:
   "720":
-  - 720.728.226185:ESCAPE_FLI
+  - 720.728.226185:ESCAPE_FLI_ALT
   "760":
   - 760.768.223201:ESCAPE_STEER_ANGLE
