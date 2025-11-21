@@ -7,5 +7,5 @@ test_cases:
     ESCAPE_PCM_ENG_EOP_RAW: 196
   response: 7E80562041500C4
 - expected_values:
-    ESCAPE_PCM_ENG_EOP_RAW: 315
-  response: 7E805620415013B
+    ESCAPE_PCM_ENG_EOP_RAW: 300
+  response: 7E805620415012C

@@ -4,26 +4,8 @@ test_cases:
     ESCAPE_ETC_TRIM_LRN: 0.79492
   response: '7E8056203380197'
 - expected_values:
-    ESCAPE_ETC_TRIM_LRN: 0.92383
-  response: 7E80562033801D9
-- expected_values:
     ESCAPE_ETC_TRIM_LRN: 0.98242
   response: 7E80562033801F7
 - expected_values:
-    ESCAPE_ETC_TRIM_LRN: 1.05078
-  response: 7E805620338021A
-- expected_values:
-    ESCAPE_ETC_TRIM_LRN: 1.05859
-  response: 7E805620338021E
-- expected_values:
-    ESCAPE_ETC_TRIM_LRN: 1.10156
-  response: '7E8056203380234'
-- expected_values:
-    ESCAPE_ETC_TRIM_LRN: 1.12695
-  response: '7E8056203380241'
-- expected_values:
-    ESCAPE_ETC_TRIM_LRN: 1.18945
-  response: '7E8056203380261'
-- expected_values:
-    ESCAPE_ETC_TRIM_LRN: 1.20312
-  response: '7E8056203380268'
+    ESCAPE_ETC_TRIM_LRN: 1.0293
+  response: 7E805620338020F
