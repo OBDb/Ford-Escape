@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22093C
+test_cases:
+- expected_values:
+    ESCAPE_ETC_ANG_ACT: 1.59375
+  response: 7E80562093C0330
+- expected_values:
+    ESCAPE_ETC_ANG_ACT: 3.03516
+  response: 7E80562093C0612
+- expected_values:
+    ESCAPE_ETC_ANG_ACT: 9.98828
+  response: 7E80562093C13FA
+- expected_values:
+    ESCAPE_ETC_ANG_ACT: 14.93164
+  response: 7E80562093C1DDD

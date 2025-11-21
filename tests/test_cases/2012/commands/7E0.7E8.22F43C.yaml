@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F43C
+test_cases:
+- expected_values:
+    ESCAPE_CAT_TEMP: 186.7
+  response: 7E80562F43C08DB
+- expected_values:
+    ESCAPE_CAT_TEMP: 292.4
+  response: 7E80562F43C0CFC
+- expected_values:
+    ESCAPE_CAT_TEMP: 575.2
+  response: 7E80562F43C1808
+- expected_values:
+    ESCAPE_CAT_TEMP: 601.1
+  response: 7E80562F43C190B
