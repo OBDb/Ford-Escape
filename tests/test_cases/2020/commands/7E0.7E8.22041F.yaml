@@ -4,5 +4,23 @@ test_cases:
     ESCAPE_LPFP_DES: 58.29
   response: 7E80462041F86
 - expected_values:
+    ESCAPE_LPFP_DES: 60.03
+  response: 7E80462041F8A
+- expected_values:
+    ESCAPE_LPFP_DES: 61.335
+  response: 7E80462041F8D
+- expected_values:
+    ESCAPE_LPFP_DES: 64.38
+  response: 7E80462041F94
+- expected_values:
+    ESCAPE_LPFP_DES: 64.815
+  response: 7E80462041F95
+- expected_values:
+    ESCAPE_LPFP_DES: 65.25
+  response: 7E80462041F96
+- expected_values:
+    ESCAPE_LPFP_DES: 66.12
+  response: 7E80462041F98
+- expected_values:
     ESCAPE_LPFP_DES: 66.555
   response: 7E80462041F99

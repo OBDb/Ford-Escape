@@ -1,8 +1,29 @@
 command_id: 7E0.7E8.221E16
 test_cases:
 - expected_values:
+    ESCAPE_AXLE_GEAR_RATIO_MEAS: 0.61646
+  response: 7E805621E1609DD
+- expected_values:
+    ESCAPE_AXLE_GEAR_RATIO_MEAS: 0.6167
+  response: 7E805621E1609DE
+- expected_values:
+    ESCAPE_AXLE_GEAR_RATIO_MEAS: 0.74731
+  response: 7E805621E160BF5
+- expected_values:
+    ESCAPE_AXLE_GEAR_RATIO_MEAS: 0.74756
+  response: 7E805621E160BF6
+- expected_values:
+    ESCAPE_AXLE_GEAR_RATIO_MEAS: 1
+  response: 7E805621E161000
+- expected_values:
     ESCAPE_AXLE_GEAR_RATIO_MEAS: 1.32056
   response: 7E805621E161521
 - expected_values:
+    ESCAPE_AXLE_GEAR_RATIO_MEAS: 4.26147
+  response: 7E805621E16442F
+- expected_values:
     ESCAPE_AXLE_GEAR_RATIO_MEAS: 4.69873
   response: 7E805621E164B2E
+- expected_values:
+    ESCAPE_AXLE_GEAR_RATIO_MEAS: 10
+  response: 7E805621E16A000

@@ -6,3 +6,21 @@ test_cases:
 - expected_values:
     ESCAPE_TIP_V: 1.52344
   response: 7E80562033C0138
+- expected_values:
+    ESCAPE_TIP_V: 1.5332
+  response: 7E80562033C013A
+- expected_values:
+    ESCAPE_TIP_V: 1.83105
+  response: 7E80562033C0177
+- expected_values:
+    ESCAPE_TIP_V: 1.8457
+  response: 7E80562033C017A
+- expected_values:
+    ESCAPE_TIP_V: 2.06055
+  response: 7E80562033C01A6
+- expected_values:
+    ESCAPE_TIP_V: 2.10449
+  response: 7E80562033C01AF
+- expected_values:
+    ESCAPE_TIP_V: 2.17773
+  response: 7E80562033C01BE

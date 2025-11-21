@@ -1,8 +1,11 @@
 command_id: 7E0.7E8.2203BD
 test_cases:
 - expected_values:
-    ESCAPE_CL_LC: 0.01025
-  response: 7E8056203BD0054
+    ESCAPE_CL_LC: 0
+  response: 7E8056203BD0000
 - expected_values:
-    ESCAPE_CL_LC: -0.01477
-  response: 7E8056203BDFF87
+    ESCAPE_CL_LC: -0.01855
+  response: 7E8056203BDFF68
+- expected_values:
+    ESCAPE_CL_LC: -0.00964
+  response: 7E8056203BDFFB1

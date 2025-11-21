@@ -3,3 +3,18 @@ test_cases:
 - expected_values:
     ESCAPE_DIST_DTC_CLR: 12416
   response: 7E80562F4313080
+- expected_values:
+    ESCAPE_DIST_DTC_CLR: 12417
+  response: 7E80562F4313081
+- expected_values:
+    ESCAPE_DIST_DTC_CLR: 12418
+  response: 7E80562F4313082
+- expected_values:
+    ESCAPE_DIST_DTC_CLR: 12420
+  response: 7E80562F4313084
+- expected_values:
+    ESCAPE_DIST_DTC_CLR: 12422
+  response: 7E80562F4313086
+- expected_values:
+    ESCAPE_DIST_DTC_CLR: 12439
+  response: 7E80562F4313097
