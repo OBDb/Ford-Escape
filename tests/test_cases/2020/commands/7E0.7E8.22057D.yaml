@@ -15,3 +15,12 @@ test_cases:
 - expected_values:
     ESCAPE_AAT_ALT: 22
   response: 7E80462057D7C
+- expected_values:
+    ESCAPE_AAT_ALT: 23
+  response: 7E80462057D7E
+- expected_values:
+    ESCAPE_AAT_ALT: 24
+  response: 7E80462057D80
+- expected_values:
+    ESCAPE_AAT_ALT: 25
+  response: 7E80462057D82
