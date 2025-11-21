@@ -55,6 +55,8 @@ supported_commands_by_ecu:
   - 7E0.7E8.221E12:ESCAPE_GEAR
   - 7E0.7E8.221E23:ESCAPE_GEAR_SHFT
 unsupported_commands_by_ecu:
+  "720":
+  - 720.728.22404C:ESCAPE_ODO
   "726":
   - 726.72E.222813:ESCAPE_TP_FL
   - 726.72E.222814:ESCAPE_TP_FR

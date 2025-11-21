@@ -4,5 +4,5 @@ test_cases:
     ESCAPE_PCM_ACT_ENG_PCT_TRQ: 6
   response: 7E80462F46283
 - expected_values:
-    ESCAPE_PCM_ACT_ENG_PCT_TRQ: 21
-  response: 7E80462F46292
+    ESCAPE_PCM_ACT_ENG_PCT_TRQ: 96
+  response: 7E80462F462DD

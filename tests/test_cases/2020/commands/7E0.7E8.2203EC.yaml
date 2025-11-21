@@ -3,3 +3,18 @@ test_cases:
 - expected_values:
     ESCAPE_IGN_CORR_CYL1: 0
   response: 7E8056203EC0000
+- expected_values:
+    ESCAPE_IGN_CORR_CYL1: 1.25977
+  response: 7E8056203EC0285
+- expected_values:
+    ESCAPE_IGN_CORR_CYL1: 3.04688
+  response: 7E8056203EC0618
+- expected_values:
+    ESCAPE_IGN_CORR_CYL1: -1.91992
+  response: 7E8056203ECFC29
+- expected_values:
+    ESCAPE_IGN_CORR_CYL1: -1.37305
+  response: 7E8056203ECFD41
+- expected_values:
+    ESCAPE_IGN_CORR_CYL1: -1
+  response: 7E8056203ECFE00

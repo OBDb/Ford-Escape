@@ -1,8 +1,11 @@
 command_id: 7E0.7E8.220462
 test_cases:
 - expected_values:
-    ESCAPE_WGDC: 61.77673
-  response: 7E8056204624F13
+    ESCAPE_WGDC: 38.73291
+  response: '7E8056204623194'
 - expected_values:
-    ESCAPE_WGDC: 62.16431
-  response: 7E8056204624F92
+    ESCAPE_WGDC: 53.12195
+  response: 7E80562046243FF
+- expected_values:
+    ESCAPE_WGDC: 61.76453
+  response: 7E8056204624F0F

@@ -1,5 +1,23 @@
 command_id: 7E0.7E8.220707
 test_cases:
 - expected_values:
+    ESCAPE_GRILL_SHUT_DC: 29.80392
+  response: 7E8046207074C
+- expected_values:
     ESCAPE_GRILL_SHUT_DC: 57.64706
   response: '7E80462070793'
+- expected_values:
+    ESCAPE_GRILL_SHUT_DC: 74.5098
+  response: 7E804620707BE
+- expected_values:
+    ESCAPE_GRILL_SHUT_DC: 75.29412
+  response: 7E804620707C0
+- expected_values:
+    ESCAPE_GRILL_SHUT_DC: 76.07843
+  response: 7E804620707C2
+- expected_values:
+    ESCAPE_GRILL_SHUT_DC: 76.47059
+  response: 7E804620707C3
+- expected_values:
+    ESCAPE_GRILL_SHUT_DC: 77.64706
+  response: 7E804620707C6
