@@ -7,5 +7,5 @@ test_cases:
     ESCAPE_RO2_V: 0.74023
   response: 7E80562035F02F6
 - expected_values:
-    ESCAPE_RO2_V: 0.78125
-  response: 7E80562035F0320
+    ESCAPE_RO2_V: 0.75195
+  response: 7E80562035F0302

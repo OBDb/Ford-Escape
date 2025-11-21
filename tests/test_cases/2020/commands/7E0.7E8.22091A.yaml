@@ -7,8 +7,8 @@ test_cases:
     ESCAPE_ETC_ANG_DES: 4.48438
   response: 7E80562091A08F8
 - expected_values:
-    ESCAPE_ETC_ANG_DES: 29.05664
-  response: 7E80562091A3A1D
+    ESCAPE_ETC_ANG_DES: 11.51172
+  response: 7E80562091A1706
 - expected_values:
     ESCAPE_ETC_ANG_DES: 46.76562
   response: 7E80562091A5D88

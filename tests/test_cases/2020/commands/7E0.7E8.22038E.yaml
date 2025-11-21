@@ -2,10 +2,13 @@ command_id: 7E0.7E8.22038E
 test_cases:
 - expected_values:
     ESCAPE_EVAP_V: 5
-  response: 7E80562038E08D6
+  response: 7E80562038E0687
 - expected_values:
     ESCAPE_EVAP_V: 5
-  response: 7E80562038E08E5
+  response: 7E80562038E0903
+- expected_values:
+    ESCAPE_EVAP_V: 5
+  response: 7E80562038E09E9
 - expected_values:
     ESCAPE_EVAP_V: 5
   response: 7E80562038E0A11
