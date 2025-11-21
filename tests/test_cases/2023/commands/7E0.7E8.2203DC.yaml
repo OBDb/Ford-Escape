@@ -7,6 +7,12 @@ test_cases:
     ESCAPE_HPFP_DES: 736.79172
   response: 7E8056203DC01FC
 - expected_values:
+    ESCAPE_HPFP_DES: 1448.92702
+  response: 7E8056203DC03E7
+- expected_values:
+    ESCAPE_HPFP_DES: 1461.98042
+  response: 7E8056203DC03F0
+- expected_values:
     ESCAPE_HPFP_DES: 2246.63459
   response: 7E8056203DC060D
 - expected_values:

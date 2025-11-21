@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220415
+test_cases:
+- expected_values:
+    ESCAPE_PCM_ENG_EOP_RAW: 101
+  response: '7E8056204150065'
+- expected_values:
+    ESCAPE_PCM_ENG_EOP_RAW: 280
+  response: '7E8056204150118'
+- expected_values:
+    ESCAPE_PCM_ENG_EOP_RAW: 285
+  response: 7E805620415011D
