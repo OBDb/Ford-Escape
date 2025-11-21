@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220317
+test_cases:
+- expected_values:
+    ESCAPE_VCT_EXH_DUTY: 32.67822
+  response: 7E80562031729D4
+- expected_values:
+    ESCAPE_VCT_EXH_DUTY: 43.35022
+  response: 7E805620317377D

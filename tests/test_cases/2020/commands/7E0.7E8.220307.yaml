@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220307
+test_cases:
+- expected_values:
+    ESCAPE_LPFP_DUTY: 23.88
+  response: 7E8056203071E91
+- expected_values:
+    ESCAPE_LPFP_DUTY: 25.12817
+  response: 7E805620307202A

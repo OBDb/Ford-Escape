@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22091A
+test_cases:
+- expected_values:
+    ESCAPE_ETC_ANG_DES: 4.67969
+  response: 7E80562091A095C
+- expected_values:
+    ESCAPE_ETC_ANG_DES: 28.24805
+  response: 7E80562091A387F
