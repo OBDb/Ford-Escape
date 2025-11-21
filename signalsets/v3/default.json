@@ -49,7 +49,7 @@
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "DD01"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
-    {"id": "ESCAPE_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer (Instrument panel)", "suggestedMetric": "odometer"}
+    {"id": "ESCAPE_ODO_726", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer, instrument panel", "suggestedMetric": "odometer"}
   ]},
 { "hdr": "760", "rax": "768", "dbg": true, "cmd": {"22": "2B00"}, "freq": 2,
   "signals": [
