@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    ESCAPE_DIST_DTC_CLR: 29051
+  response: 7E80562F431717B
+- expected_values:
+    ESCAPE_DIST_DTC_CLR: 29052
+  response: 7E80562F431717C
+- expected_values:
+    ESCAPE_DIST_DTC_CLR: 29053
+  response: 7E80562F431717D
+- expected_values:
+    ESCAPE_DIST_DTC_CLR: 29054
+  response: 7E80562F431717E
+- expected_values:
+    ESCAPE_DIST_DTC_CLR: 29057
+  response: 7E80562F4317181
+- expected_values:
+    ESCAPE_DIST_DTC_CLR: 29058
+  response: 7E80562F4317182
+- expected_values:
+    ESCAPE_DIST_DTC_CLR: 29059
+  response: 7E80562F4317183
+- expected_values:
+    ESCAPE_DIST_DTC_CLR: 29060
+  response: 7E80562F4317184
+- expected_values:
+    ESCAPE_DIST_DTC_CLR: 29061
+  response: 7E80562F4317185
+- expected_values:
+    ESCAPE_DIST_DTC_CLR: 29062
+  response: 7E80562F4317186
