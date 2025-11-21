@@ -4,8 +4,8 @@ test_cases:
     ESCAPE_VCT_INT_ACT: 0
   response: '7E8056203180000'
 - expected_values:
-    ESCAPE_VCT_INT_ACT: 4059.25
-  response: 7E805620318FDB4
+    ESCAPE_VCT_INT_ACT: 4078.1875
+  response: 7E805620318FEE3
 - expected_values:
     ESCAPE_VCT_INT_ACT: 4082.4375
   response: 7E805620318FF27

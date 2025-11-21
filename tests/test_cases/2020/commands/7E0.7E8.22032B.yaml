@@ -4,20 +4,5 @@ test_cases:
     ESCAPE_ACC_POS: 0
   response: 7E80462032B00
 - expected_values:
-    ESCAPE_ACC_POS: 3
-  response: 7E80462032B06
-- expected_values:
-    ESCAPE_ACC_POS: 4
-  response: 7E80462032B08
-- expected_values:
-    ESCAPE_ACC_POS: 6.5
-  response: 7E80462032B0D
-- expected_values:
-    ESCAPE_ACC_POS: 10
-  response: 7E80462032B14
-- expected_values:
-    ESCAPE_ACC_POS: 24.5
-  response: 7E80462032B31
-- expected_values:
     ESCAPE_ACC_POS: 25.5
   response: 7E80462032B33

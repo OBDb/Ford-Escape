@@ -4,23 +4,5 @@ test_cases:
     ESCAPE_AAT_ALT: 16
   response: 7E80462057D70
 - expected_values:
-    ESCAPE_AAT_ALT: 17
-  response: 7E80462057D72
-- expected_values:
-    ESCAPE_AAT_ALT: 20
-  response: 7E80462057D78
-- expected_values:
-    ESCAPE_AAT_ALT: 21
-  response: 7E80462057D7A
-- expected_values:
-    ESCAPE_AAT_ALT: 22
-  response: 7E80462057D7C
-- expected_values:
-    ESCAPE_AAT_ALT: 23
-  response: 7E80462057D7E
-- expected_values:
-    ESCAPE_AAT_ALT: 24
-  response: 7E80462057D80
-- expected_values:
-    ESCAPE_AAT_ALT: 25
-  response: 7E80462057D82
+    ESCAPE_AAT_ALT: 32
+  response: 7E80462057D90

@@ -4,5 +4,5 @@ test_cases:
     ESCAPE_IAT_ALT2: 20
   response: 7E80462F40F3C
 - expected_values:
-    ESCAPE_IAT_ALT2: 50
-  response: 7E80462F40F5A
+    ESCAPE_IAT_ALT2: 57
+  response: 7E80462F40F61

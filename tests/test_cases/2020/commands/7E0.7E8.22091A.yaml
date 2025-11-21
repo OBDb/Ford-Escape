@@ -4,11 +4,11 @@ test_cases:
     ESCAPE_ETC_ANG_DES: 2.81445
   response: 7E80562091A05A1
 - expected_values:
-    ESCAPE_ETC_ANG_DES: 4.48438
-  response: 7E80562091A08F8
+    ESCAPE_ETC_ANG_DES: 3.48633
+  response: 7E80562091A06F9
 - expected_values:
-    ESCAPE_ETC_ANG_DES: 11.51172
-  response: 7E80562091A1706
+    ESCAPE_ETC_ANG_DES: 6.50195
+  response: 7E80562091A0D01
 - expected_values:
     ESCAPE_ETC_ANG_DES: 46.76562
   response: 7E80562091A5D88
