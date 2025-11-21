@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220548
+test_cases:
+- expected_values:
+    ESCAPE_LPFP_ACT: 57.29121
+  response: '7E8056205480316'
+- expected_values:
+    ESCAPE_LPFP_ACT: 60.98976
+  response: '7E8056205480349'
