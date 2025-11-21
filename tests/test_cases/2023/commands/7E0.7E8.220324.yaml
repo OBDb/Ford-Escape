@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220324
 test_cases:
 - expected_values:
-    ESCAPE_HPFP_V: 1.34409
-  response: '7E8056203240113'
+    ESCAPE_HPFP_V: 1.30987
+  response: 7E805620324010C
 - expected_values:
-    ESCAPE_HPFP_V: 2.38025
-  response: 7E80562032401E7
+    ESCAPE_HPFP_V: 2.42913
+  response: 7E80562032401F1
 - expected_values:
     ESCAPE_HPFP_V: 2.52688
   response: '7E8056203240205'

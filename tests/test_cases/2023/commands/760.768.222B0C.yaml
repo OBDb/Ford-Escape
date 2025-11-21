@@ -4,8 +4,8 @@ test_cases:
     ESCAPE_LAT_ANG: 0
   response: 76805622B0C0000
 - expected_values:
-    ESCAPE_LAT_ANG: 0
-  response: 76805622B0C0003
-- expected_values:
     ESCAPE_LAT_ANG: -1
   response: 76805622B0CFFF3
+- expected_values:
+    ESCAPE_LAT_ANG: -1
+  response: 76805622B0CFFFF
