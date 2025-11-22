@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     ESCAPE_LPFP_ACT: 54.68047
   response: 7E80562054802F2
+- expected_values:
+    ESCAPE_LPFP_ACT: 84.34137
+  response: 7E805620548048B
