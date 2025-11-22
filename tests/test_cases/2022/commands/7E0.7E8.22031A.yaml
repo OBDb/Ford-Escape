@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     ESCAPE_VCT_INT_ERR: 0
   response: 7E80562031A0000
+- expected_values:
+    ESCAPE_VCT_INT_ERR: 0.5625
+  response: 7E80562031A0009

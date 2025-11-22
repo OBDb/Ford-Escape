@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     ESCAPE_ERT: 0
   response: '7E80462112600'
+- expected_values:
+    ESCAPE_ERT: 9
+  response: '7E80462112609'
