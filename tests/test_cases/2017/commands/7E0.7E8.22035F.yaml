@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22035F
+test_cases:
+- expected_values:
+    ESCAPE_RO2_V: 0.12207
+  response: 7E80562035F007D
+- expected_values:
+    ESCAPE_RO2_V: 0.74707
+  response: 7E80562035F02FD
+- expected_values:
+    ESCAPE_RO2_V: 1
+  response: 7E80562035F0401
