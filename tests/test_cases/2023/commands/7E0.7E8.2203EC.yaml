@@ -4,29 +4,8 @@ test_cases:
     ESCAPE_IGN_CORR_CYL1: 0
   response: 7E8056203EC0000
 - expected_values:
-    ESCAPE_IGN_CORR_CYL1: 0.07227
-  response: 7E8056203EC0025
-- expected_values:
-    ESCAPE_IGN_CORR_CYL1: 0.30273
-  response: 7E8056203EC009B
-- expected_values:
-    ESCAPE_IGN_CORR_CYL1: 0.35352
-  response: 7E8056203EC00B5
-- expected_values:
     ESCAPE_IGN_CORR_CYL1: 0.49805
   response: 7E8056203EC00FF
 - expected_values:
-    ESCAPE_IGN_CORR_CYL1: 1.80078
-  response: 7E8056203EC039A
-- expected_values:
-    ESCAPE_IGN_CORR_CYL1: 1.85742
-  response: 7E8056203EC03B7
-- expected_values:
-    ESCAPE_IGN_CORR_CYL1: 2.20312
-  response: 7E8056203EC0468
-- expected_values:
-    ESCAPE_IGN_CORR_CYL1: -0.60547
-  response: 7E8056203ECFECA
-- expected_values:
-    ESCAPE_IGN_CORR_CYL1: -0.57617
-  response: 7E8056203ECFED9
+    ESCAPE_IGN_CORR_CYL1: -0.6582
+  response: 7E8056203ECFEAF

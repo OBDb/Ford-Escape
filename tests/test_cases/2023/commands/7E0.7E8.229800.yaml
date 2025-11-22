@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.229800
 test_cases:
 - expected_values:
-    ESCAPE_AC_P_SENS_V: 1.06543
-  response: '7E8056298000443'
+    ESCAPE_AC_P_SENS_V: 1.05469
+  response: '7E8056298000438'
 - expected_values:
-    ESCAPE_AC_P_SENS_V: 1.23438
-  response: 7E80562980004F0
+    ESCAPE_AC_P_SENS_V: 1.24023
+  response: 7E80562980004F6
 - expected_values:
     ESCAPE_AC_P_SENS_V: 1.25391
   response: '7E8056298000504'
 - expected_values:
-    ESCAPE_AC_P_SENS_V: 1.54395
-  response: 7E805629800062D
+    ESCAPE_AC_P_SENS_V: 1.95996
+  response: 7E80562980007D7

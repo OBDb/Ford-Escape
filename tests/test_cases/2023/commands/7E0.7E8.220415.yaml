@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220415
 test_cases:
 - expected_values:
-    ESCAPE_PCM_ENG_EOP_RAW: 101
-  response: '7E8056204150065'
+    ESCAPE_PCM_ENG_EOP_RAW: 99
+  response: '7E8056204150063'
 - expected_values:
     ESCAPE_PCM_ENG_EOP_RAW: 271
   response: 7E805620415010F
