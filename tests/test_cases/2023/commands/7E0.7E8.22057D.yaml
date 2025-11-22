@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     ESCAPE_AAT_ALT: 17
   response: 7E80462057D72
+- expected_values:
+    ESCAPE_AAT_ALT: 18
+  response: 7E80462057D74
+- expected_values:
+    ESCAPE_AAT_ALT: 19
+  response: 7E80462057D76

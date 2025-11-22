@@ -4,26 +4,5 @@ test_cases:
     ESCAPE_IAT_SENS_V: 0.91887
   response: 7E80562127900BC
 - expected_values:
-    ESCAPE_IAT_SENS_V: 0.92375
-  response: 7E80562127900BD
-- expected_values:
-    ESCAPE_IAT_SENS_V: 0.92864
-  response: 7E80562127900BE
-- expected_values:
-    ESCAPE_IAT_SENS_V: 0.93353
-  response: 7E80562127900BF
-- expected_values:
-    ESCAPE_IAT_SENS_V: 0.93842
-  response: 7E80562127900C0
-- expected_values:
-    ESCAPE_IAT_SENS_V: 0.94819
-  response: 7E80562127900C2
-- expected_values:
-    ESCAPE_IAT_SENS_V: 0.96285
-  response: 7E80562127900C5
-- expected_values:
-    ESCAPE_IAT_SENS_V: 1.00684
-  response: 7E80562127900CE
-- expected_values:
     ESCAPE_IAT_SENS_V: 1.03617
   response: 7E80562127900D4

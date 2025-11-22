@@ -13,6 +13,9 @@ test_cases:
     ESCAPE_GRILL_SHUT_DC: 23.52941
   response: 7E8046207073C
 - expected_values:
+    ESCAPE_GRILL_SHUT_DC: 29.80392
+  response: 7E8046207074C
+- expected_values:
     ESCAPE_GRILL_SHUT_DC: 34.90196
   response: '7E80462070759'
 - expected_values:
