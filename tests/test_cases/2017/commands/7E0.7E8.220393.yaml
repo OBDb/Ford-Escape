@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220393
+test_cases:
+- expected_values:
+    ESCAPE_AC_P: 69.32804
+  response: 7E80562039300EF
+- expected_values:
+    ESCAPE_AC_P: 73.96925
+  response: 7E80562039300FF
+- expected_values:
+    ESCAPE_AC_P: 74.5494
+  response: '7E8056203930101'

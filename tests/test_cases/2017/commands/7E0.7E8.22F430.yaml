@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F430
+test_cases:
+- expected_values:
+    ESCAPE_WARMUP_CLR: 235
+  response: 7E80462F430EB
+- expected_values:
+    ESCAPE_WARMUP_CLR: 236
+  response: 7E80462F430EC
