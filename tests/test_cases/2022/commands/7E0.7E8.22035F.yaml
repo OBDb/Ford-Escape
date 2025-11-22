@@ -11,4 +11,13 @@ test_cases:
   response: 7E80562035F0692
 - expected_values:
     ESCAPE_RO2_V: 1
+  response: 7E80562035F0693
+- expected_values:
+    ESCAPE_RO2_V: 1
   response: 7E80562035F0694
+- expected_values:
+    ESCAPE_RO2_V: 1
+  response: 7E80562035F0695
+- expected_values:
+    ESCAPE_RO2_V: 1
+  response: 7E80562035F0697

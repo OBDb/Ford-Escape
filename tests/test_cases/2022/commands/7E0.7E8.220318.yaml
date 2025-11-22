@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     ESCAPE_VCT_INT_ACT: 0
   response: '7E8056203180000'
+- expected_values:
+    ESCAPE_VCT_INT_ACT: 4050.9375
+  response: 7E805620318FD2F
