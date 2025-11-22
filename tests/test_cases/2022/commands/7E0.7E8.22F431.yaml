@@ -4,11 +4,5 @@ test_cases:
     ESCAPE_DIST_DTC_CLR: 3502
   response: 7E80562F4310DAE
 - expected_values:
-    ESCAPE_DIST_DTC_CLR: 3503
-  response: 7E80562F4310DAF
-- expected_values:
-    ESCAPE_DIST_DTC_CLR: 3504
-  response: 7E80562F4310DB0
-- expected_values:
-    ESCAPE_DIST_DTC_CLR: 3505
-  response: 7E80562F4310DB1
+    ESCAPE_DIST_DTC_CLR: 3518
+  response: 7E80562F4310DBE
