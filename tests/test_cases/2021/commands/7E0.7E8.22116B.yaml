@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22116B
+test_cases:
+- expected_values:
+    ESCAPE_IGN_TIM_CYL1: 10
+  response: 7E80562116B0028
+- expected_values:
+    ESCAPE_IGN_TIM_CYL1: 22
+  response: 7E80562116B0058
+- expected_values:
+    ESCAPE_IGN_TIM_CYL1: 32.75
+  response: 7E80562116B0083
+- expected_values:
+    ESCAPE_IGN_TIM_CYL1: -15
+  response: 7E80562116BFFC4
