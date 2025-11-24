@@ -10,5 +10,5 @@ test_cases:
     ESCAPE_ETC_ANG_ACT: 9.98828
   response: 7E80562093C13FA
 - expected_values:
-    ESCAPE_ETC_ANG_ACT: 14.93164
-  response: 7E80562093C1DDD
+    ESCAPE_ETC_ANG_ACT: 15.55469
+  response: 7E80562093C1F1C
