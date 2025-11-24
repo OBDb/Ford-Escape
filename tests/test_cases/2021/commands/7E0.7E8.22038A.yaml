@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22038A
+test_cases:
+- expected_values:
+    ESCAPE_PCM_MISF_ACCEL_CYL3_NORM: 0
+  response: 7E80462038A00
+- expected_values:
+    ESCAPE_PCM_MISF_ACCEL_CYL3_NORM: -0.25
+  response: 7E80462038AF0
+- expected_values:
+    ESCAPE_PCM_MISF_ACCEL_CYL3_NORM: -0.0625
+  response: 7E80462038AFC
+- expected_values:
+    ESCAPE_PCM_MISF_ACCEL_CYL3_NORM: -0.04688
+  response: 7E80462038AFD

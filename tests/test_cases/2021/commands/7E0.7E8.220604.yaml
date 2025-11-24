@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.220604
+test_cases:
+- expected_values:
+    ESCAPE_PCM_A_C_REFRIG_P: 362
+  response: 7E805620604016A
+- expected_values:
+    ESCAPE_PCM_A_C_REFRIG_P: 387
+  response: '7E8056206040183'
+- expected_values:
+    ESCAPE_PCM_A_C_REFRIG_P: 400
+  response: '7E8056206040190'
+- expected_values:
+    ESCAPE_PCM_A_C_REFRIG_P: 445
+  response: 7E80562060401BD
+- expected_values:
+    ESCAPE_PCM_A_C_REFRIG_P: 462
+  response: 7E80562060401CE
+- expected_values:
+    ESCAPE_PCM_A_C_REFRIG_P: 583
+  response: '7E8056206040247'
+- expected_values:
+    ESCAPE_PCM_A_C_REFRIG_P: 707
+  response: 7E80562060402C3
+- expected_values:
+    ESCAPE_PCM_A_C_REFRIG_P: 753
+  response: 7E80562060402F1
+- expected_values:
+    ESCAPE_PCM_A_C_REFRIG_P: 757
+  response: 7E80562060402F5

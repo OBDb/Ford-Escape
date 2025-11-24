@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F404
+test_cases:
+- expected_values:
+    ESCAPE_ENG_LOAD_PCT: 0
+  response: 7E80462F40400
+- expected_values:
+    ESCAPE_ENG_LOAD_PCT: 54.11765
+  response: 7E80462F4048A
+- expected_values:
+    ESCAPE_ENG_LOAD_PCT: 63.92157
+  response: 7E80462F404A3
+- expected_values:
+    ESCAPE_ENG_LOAD_PCT: 78.03922
+  response: 7E80462F404C7
