@@ -4,29 +4,8 @@ test_cases:
     ESCAPE_VCT_INT_DUTY: 0
   response: '7E8056203160000'
 - expected_values:
-    ESCAPE_VCT_INT_DUTY: 31.47583
-  response: 7E805620316284A
-- expected_values:
-    ESCAPE_VCT_INT_DUTY: 31.70471
-  response: '7E8056203162895'
-- expected_values:
-    ESCAPE_VCT_INT_DUTY: 31.88171
-  response: 7E80562031628CF
-- expected_values:
     ESCAPE_VCT_INT_DUTY: 32.02515
   response: 7E80562031628FE
-- expected_values:
-    ESCAPE_VCT_INT_DUTY: 32.13806
-  response: '7E8056203162923'
-- expected_values:
-    ESCAPE_VCT_INT_DUTY: 32.43103
-  response: '7E8056203162983'
-- expected_values:
-    ESCAPE_VCT_INT_DUTY: 35.90088
-  response: 7E8056203162DF4
-- expected_values:
-    ESCAPE_VCT_INT_DUTY: 36.11755
-  response: 7E8056203162E3B
 - expected_values:
     ESCAPE_VCT_INT_DUTY: 37.54578
   response: 7E805620316300F
