@@ -1,8 +1,8 @@
 command_id: 726.72E.222816
 test_cases:
 - expected_values:
-    ESCAPE_TP_RLO: 34.3
-  response: 72E0562281602AE
+    ESCAPE_TP_RLO: 34.25
+  response: 72E0562281602AD
 - expected_values:
     ESCAPE_TP_RLO: 37.8
   response: 72E0562281602F4
