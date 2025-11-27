@@ -4,11 +4,8 @@ test_cases:
     ESCAPE_AC_P_SENS_V: 0.96191
   response: 7E80562980003D9
 - expected_values:
-    ESCAPE_AC_P_SENS_V: 0.99609
-  response: 7E80562980003FC
-- expected_values:
     ESCAPE_AC_P_SENS_V: 1.00098
   response: '7E8056298000401'
 - expected_values:
-    ESCAPE_AC_P_SENS_V: 1.40625
-  response: 7E80562980005A0
+    ESCAPE_AC_P_SENS_V: 1.99805
+  response: 7E80562980007FE
