@@ -1,8 +1,8 @@
 command_id: 726.72E.222814
 test_cases:
 - expected_values:
-    ESCAPE_TP_FR: 32.8
-  response: '72E056228140290'
+    ESCAPE_TP_FR: 32.15
+  response: '72E056228140283'
 - expected_values:
     ESCAPE_TP_FR: 38.15
   response: 72E0562281402FB
