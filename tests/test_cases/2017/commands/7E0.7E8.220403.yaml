@@ -4,5 +4,5 @@ test_cases:
     ESCAPE_KS1_RAW: 30
   response: 7E805620403001E
 - expected_values:
-    ESCAPE_KS1_RAW: 132
-  response: '7E8056204030084'
+    ESCAPE_KS1_RAW: 228
+  response: 7E80562040300E4

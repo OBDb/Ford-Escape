@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     ESCAPE_BATT_TEMP: 16
   response: '72E0462402938'
+- expected_values:
+    ESCAPE_BATT_TEMP: 22
+  response: 72E046240293E

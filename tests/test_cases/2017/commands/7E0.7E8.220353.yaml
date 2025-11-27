@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     ESCAPE_BARO: 14.28462
   response: 7E805620353018A
+- expected_values:
+    ESCAPE_BARO: 14.53841
+  response: '7E8056203530191'
