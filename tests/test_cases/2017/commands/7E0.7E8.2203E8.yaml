@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     ESCAPE_OAR: 0
   response: 7E8056203E8F389
+- expected_values:
+    ESCAPE_OAR: 0
+  response: 7E8056203E8FA73
