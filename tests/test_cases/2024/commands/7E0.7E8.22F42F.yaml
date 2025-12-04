@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22F42F
+test_cases:
+- expected_values:
+    ESCAPE_FLI: 41.96078
+  response: 7E80462F42F6B
+- expected_values:
+    ESCAPE_FLI: 42.35294
+  response: 7E80462F42F6C
+- expected_values:
+    ESCAPE_FLI: 43.92157
+  response: 7E80462F42F70
+- expected_values:
+    ESCAPE_FLI: 45.4902
+  response: 7E80462F42F74
+- expected_values:
+    ESCAPE_FLI: 45.88235
+  response: 7E80462F42F75
+- expected_values:
+    ESCAPE_FLI: 46.66667
+  response: 7E80462F42F77

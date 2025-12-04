@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F406
+test_cases:
+- expected_values:
+    ESCAPE_STFT: 2.34375
+  response: 7E80462F40683
+- expected_values:
+    ESCAPE_STFT: 3.125
+  response: 7E80462F40684
+- expected_values:
+    ESCAPE_STFT: 4.6875
+  response: 7E80462F40686
+- expected_values:
+    ESCAPE_STFT: 5.46875
+  response: 7E80462F40687
