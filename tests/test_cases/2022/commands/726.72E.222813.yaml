@@ -10,5 +10,5 @@ test_cases:
     ESCAPE_TP_FL: 32.7
   response: 72E05622813028E0000
 - expected_values:
-    ESCAPE_TP_FL: 33.9
-  response: 72E0562281302A6
+    ESCAPE_TP_FL: 34.4
+  response: 72E0562281302B0
