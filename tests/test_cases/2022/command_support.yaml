@@ -164,6 +164,10 @@ supported_commands_by_ecu:
   - 0131:CLR_DIST
   - 0142:VPWR
   - 0149:APP_D
+  - 7E6.7EE.0104
+  - 7E6.7EE.0105
+  - 7E6.7EE.010D
+  - 7E6.7EE.0131
 unsupported_commands_by_ecu:
   "720":
   - 720.728.22404C:ESCAPE_ODO
@@ -219,3 +223,6 @@ unsupported_commands_by_ecu:
   - 7E0.7E8.221E19:ESCAPE_PCM_CMD_TRANS_GEAR_RATIO
   - 7E0.7E8.221E1A:ESCAPE_PCM_CMD_TRANS_MAIN_LINE_P
   - 7E0.7E8.221E1F:ESCAPE_GEAR_ENG
+  "7E4":
+  - 7E4.7EC.0104
+  - 7E4.7EC.0105
