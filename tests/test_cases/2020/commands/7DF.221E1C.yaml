@@ -1,8 +1,8 @@
 command_id: 7DF.221E1C
 test_cases:
 - expected_values:
-    ESCAPE_TOT: 57.9375
-  response: 7E805621E1C039F
+    ESCAPE_TOT: 48.75
+  response: 7E805621E1C030C
 - expected_values:
     ESCAPE_TOT: 63.8125
   response: 7E805621E1C03FD
