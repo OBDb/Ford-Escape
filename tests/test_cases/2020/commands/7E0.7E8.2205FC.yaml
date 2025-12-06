@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2205FC
 test_cases:
 - expected_values:
-    ESCAPE_PCM_CYL_HEAD_T_SENS_2_RAW: 81.89062
-  response: 7E8056205FC1479
+    ESCAPE_PCM_CYL_HEAD_T_SENS_2_RAW: 65.78125
+  response: 7E8056205FC1072
 - expected_values:
     ESCAPE_PCM_CYL_HEAD_T_SENS_2_RAW: 99.92188
   response: 7E8056205FC18FB
