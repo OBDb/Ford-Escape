@@ -4,6 +4,9 @@ test_cases:
     ESCAPE_PCM_MISF_ACCEL_CYL3_NORM: 0
   response: 7E80462038A00
 - expected_values:
+    ESCAPE_PCM_MISF_ACCEL_CYL3_NORM: 0.17188
+  response: 7E80462038A0B
+- expected_values:
     ESCAPE_PCM_MISF_ACCEL_CYL3_NORM: -0.25
   response: 7E80462038AF0
 - expected_values:

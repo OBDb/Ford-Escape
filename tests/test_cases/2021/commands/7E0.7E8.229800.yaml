@@ -4,26 +4,11 @@ test_cases:
     ESCAPE_AC_P_SENS_V: 0.8252
   response: 7E805629800034D
 - expected_values:
-    ESCAPE_AC_P_SENS_V: 0.85449
-  response: 7E805629800036B
-- expected_values:
-    ESCAPE_AC_P_SENS_V: 0.86426
-  response: '7E8056298000375'
-- expected_values:
-    ESCAPE_AC_P_SENS_V: 0.92285
-  response: 7E80562980003B1
-- expected_values:
-    ESCAPE_AC_P_SENS_V: 0.94238
-  response: 7E80562980003C5
-- expected_values:
-    ESCAPE_AC_P_SENS_V: 1.08496
-  response: '7E8056298000457'
+    ESCAPE_AC_P_SENS_V: 1.02148
+  response: '7E8056298000416'
 - expected_values:
     ESCAPE_AC_P_SENS_V: 1.24121
   response: 7E80562980004F7
 - expected_values:
     ESCAPE_AC_P_SENS_V: 1.28516
   response: '7E8056298000524'
-- expected_values:
-    ESCAPE_AC_P_SENS_V: 1.29004
-  response: '7E8056298000529'
