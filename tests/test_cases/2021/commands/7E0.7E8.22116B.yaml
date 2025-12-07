@@ -4,6 +4,12 @@ test_cases:
     ESCAPE_IGN_TIM_CYL1: 10
   response: 7E80562116B0028
 - expected_values:
+    ESCAPE_IGN_TIM_CYL1: 11.5
+  response: 7E80562116B002E
+- expected_values:
+    ESCAPE_IGN_TIM_CYL1: 12.25
+  response: 7E80562116B0031
+- expected_values:
     ESCAPE_IGN_TIM_CYL1: 22
   response: 7E80562116B0058
 - expected_values:

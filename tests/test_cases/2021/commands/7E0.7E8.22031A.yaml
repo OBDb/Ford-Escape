@@ -10,6 +10,12 @@ test_cases:
     ESCAPE_VCT_INT_ERR: 0.1875
   response: 7E80562031A0003
 - expected_values:
+    ESCAPE_VCT_INT_ERR: -17.125
+  response: 7E80562031AFEEE
+- expected_values:
+    ESCAPE_VCT_INT_ERR: -0.3125
+  response: 7E80562031AFFFB
+- expected_values:
     ESCAPE_VCT_INT_ERR: -0.25
   response: 7E80562031AFFFC
 - expected_values:

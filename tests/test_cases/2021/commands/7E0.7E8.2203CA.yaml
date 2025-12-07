@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     ESCAPE_MCT: 0
   response: 7E8046203CA00
+- expected_values:
+    ESCAPE_MCT: 63
+  response: 7E8046203CA3F

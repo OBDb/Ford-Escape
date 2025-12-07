@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     ESCAPE_BATT_SOC: 26.66667
   response: '72E0462402844'
+- expected_values:
+    ESCAPE_BATT_SOC: 29.01961
+  response: 72E046240284A
+- expected_values:
+    ESCAPE_BATT_SOC: 29.41176
+  response: 72E046240284B

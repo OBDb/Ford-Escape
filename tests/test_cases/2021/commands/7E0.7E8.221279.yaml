@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221279
+test_cases:
+- expected_values:
+    ESCAPE_IAT_SENS_V: 2.2434
+  response: 7E80562127901CB
+- expected_values:
+    ESCAPE_IAT_SENS_V: 2.46823
+  response: 7E80562127901F9
+- expected_values:
+    ESCAPE_IAT_SENS_V: 2.53666
+  response: '7E8056212790207'

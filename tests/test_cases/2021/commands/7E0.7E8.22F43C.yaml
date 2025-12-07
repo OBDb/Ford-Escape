@@ -1,32 +1,14 @@
 command_id: 7E0.7E8.22F43C
 test_cases:
 - expected_values:
-    ESCAPE_CAT_TEMP: 431.9
-  response: 7E80562F43C126F
-- expected_values:
-    ESCAPE_CAT_TEMP: 436.6
-  response: 7E80562F43C129E
+    ESCAPE_CAT_TEMP: 430.4
+  response: 7E80562F43C1260
 - expected_values:
     ESCAPE_CAT_TEMP: 529
   response: 7E80562F43C163A
-- expected_values:
-    ESCAPE_CAT_TEMP: 531.9
-  response: 7E80562F43C1657
-- expected_values:
-    ESCAPE_CAT_TEMP: 538.6
-  response: 7E80562F43C169A
 - expected_values:
     ESCAPE_CAT_TEMP: 544.4
   response: 7E80562F43C16D4
 - expected_values:
     ESCAPE_CAT_TEMP: 558.8
   response: 7E80562F43C1764
-- expected_values:
-    ESCAPE_CAT_TEMP: 559.2
-  response: 7E80562F43C1768
-- expected_values:
-    ESCAPE_CAT_TEMP: 562
-  response: 7E80562F43C1784
-- expected_values:
-    ESCAPE_CAT_TEMP: 565.9
-  response: 7E80562F43C17AB

@@ -15,3 +15,9 @@ test_cases:
 - expected_values:
     ESCAPE_ETC_TRIM_LRN: 1.28906
   response: '7E8056203380294'
+- expected_values:
+    ESCAPE_ETC_TRIM_LRN: -0.03711
+  response: 7E805620338FFED
+- expected_values:
+    ESCAPE_ETC_TRIM_LRN: -0.00391
+  response: 7E805620338FFFE
