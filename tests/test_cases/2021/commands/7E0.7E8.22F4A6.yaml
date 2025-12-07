@@ -4,29 +4,11 @@ test_cases:
     ESCAPE_PCM_VEH_ODO: 76297
   response: 7E80762F4A6000BA45A
 - expected_values:
-    ESCAPE_PCM_VEH_ODO: 76297.1
-  response: 7E80762F4A6000BA45B
-- expected_values:
-    ESCAPE_PCM_VEH_ODO: 76297.2
-  response: 7E80762F4A6000BA45C
-- expected_values:
-    ESCAPE_PCM_VEH_ODO: 76297.6
-  response: 7E80762F4A6000BA460
-- expected_values:
-    ESCAPE_PCM_VEH_ODO: 76298
-  response: 7E80762F4A6000BA464
-- expected_values:
-    ESCAPE_PCM_VEH_ODO: 76298.4
-  response: 7E80762F4A6000BA468
-- expected_values:
-    ESCAPE_PCM_VEH_ODO: 76298.8
-  response: 7E80762F4A6000BA46C
-- expected_values:
-    ESCAPE_PCM_VEH_ODO: 76299.1
-  response: 7E80762F4A6000BA46F
-- expected_values:
-    ESCAPE_PCM_VEH_ODO: 76299.4
-  response: 7E80762F4A6000BA472
-- expected_values:
     ESCAPE_PCM_VEH_ODO: 172061.3
   response: 7E80762F4A6001A4125
+- expected_values:
+    ESCAPE_PCM_VEH_ODO: 172083.4
+  response: 7E80762F4A6001A4202
+- expected_values:
+    ESCAPE_PCM_VEH_ODO: 172108.6
+  response: 7E80762F4A6001A42FE

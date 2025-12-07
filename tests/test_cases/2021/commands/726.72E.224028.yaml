@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     ESCAPE_BATT_SOC: 29.41176
   response: 72E046240284B
+- expected_values:
+    ESCAPE_BATT_SOC: 29.80392
+  response: 72E046240284C
+- expected_values:
+    ESCAPE_BATT_SOC: 30.19608
+  response: 72E046240284D

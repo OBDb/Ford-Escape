@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221126
 test_cases:
 - expected_values:
-    ESCAPE_ERT: 11
-  response: 7E8046211260B
+    ESCAPE_ERT: 0
+  response: '7E80462112600'
 - expected_values:
     ESCAPE_ERT: 255
   response: 7E804621126FF

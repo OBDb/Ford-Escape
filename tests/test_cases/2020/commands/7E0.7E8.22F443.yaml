@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F443
 test_cases:
 - expected_values:
-    ESCAPE_ENG_LOAD_ACT: 10.58824
-  response: 7E80562F443001B
+    ESCAPE_ENG_LOAD_ACT: 0
+  response: 7E80562F4430000
 - expected_values:
     ESCAPE_ENG_LOAD_ACT: 80.39216
   response: 7E80562F44300CD

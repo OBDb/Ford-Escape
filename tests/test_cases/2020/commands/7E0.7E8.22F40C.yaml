@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F40C
 test_cases:
 - expected_values:
-    ESCAPE_RPM: 857.25
-  response: 7E80562F40C0D65
+    ESCAPE_RPM: 126.25
+  response: 7E80562F40C01F9
 - expected_values:
     ESCAPE_RPM: 958.75
   response: 7E80562F40C0EFB

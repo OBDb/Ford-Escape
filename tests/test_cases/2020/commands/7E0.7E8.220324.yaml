@@ -4,8 +4,8 @@ test_cases:
     ESCAPE_HPFP_V: 2.02835
   response: 7E805620324019F
 - expected_values:
-    ESCAPE_HPFP_V: 2.65396
-  response: 7E805620324021F
-- expected_values:
     ESCAPE_HPFP_V: 3.74878
   response: 7E80562032402FF
+- expected_values:
+    ESCAPE_HPFP_V: 3.87097
+  response: '7E8056203240318'

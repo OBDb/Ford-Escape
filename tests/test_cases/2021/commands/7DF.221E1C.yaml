@@ -6,14 +6,17 @@ test_cases:
     221E1C1
     7EE05621E1C02A3
 - expected_values:
-    ESCAPE_TOT: 41.5625
-  response: 7E805621E1C0299
+    ESCAPE_TOT: 25.3125
+  response: 7E805621E1C0195
 - expected_values:
-    ESCAPE_TOT: 63.4375
-  response: 7E805621E1C03F7
+    ESCAPE_TOT: 48.0625
+  response: 7E805621E1C0301
 - expected_values:
-    ESCAPE_TOT: 80.8125
-  response: 7E805621E1C050D
+    ESCAPE_TOT: 63.9375
+  response: 7E805621E1C03FF
+- expected_values:
+    ESCAPE_TOT: 80.25
+  response: 7E805621E1C0504
 - expected_values:
     ESCAPE_TOT: 42.125
   response: 7EE05621E1C02A2
