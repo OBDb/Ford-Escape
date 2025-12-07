@@ -16,6 +16,12 @@ test_cases:
     ESCAPE_PCM_MISF_EVENTS_LATEST_CYC: 4
   response: '7E80762034500000004'
 - expected_values:
+    ESCAPE_PCM_MISF_EVENTS_LATEST_CYC: 7
+  response: '7E80762034500000007'
+- expected_values:
+    ESCAPE_PCM_MISF_EVENTS_LATEST_CYC: 11
+  response: 7E8076203450000000B
+- expected_values:
     ESCAPE_PCM_MISF_EVENTS_LATEST_CYC: 12
   response: 7E8076203450000000C
 - expected_values:

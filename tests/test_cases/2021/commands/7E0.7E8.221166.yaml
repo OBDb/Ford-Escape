@@ -16,5 +16,17 @@ test_cases:
     ESCAPE_EVAP_PURGE_CMD: 38.23547
   response: 7E80562116630F1
 - expected_values:
+    ESCAPE_EVAP_PURGE_CMD: 42.91382
+  response: 7E80562116636EE
+- expected_values:
+    ESCAPE_EVAP_PURGE_CMD: 44.11926
+  response: '7E8056211663879'
+- expected_values:
     ESCAPE_EVAP_PURGE_CMD: 46.03577
   response: 7E8056211663AED
+- expected_values:
+    ESCAPE_EVAP_PURGE_CMD: 46.698
+  response: 7E8056211663BC6
+- expected_values:
+    ESCAPE_EVAP_PURGE_CMD: 47.052
+  response: 7E8056211663C3A
