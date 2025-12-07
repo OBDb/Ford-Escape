@@ -4,6 +4,9 @@ test_cases:
     ESCAPE_PCM_VEH_ODO: 101969
   response: 7E80762F4A6000F8F2A
 - expected_values:
+    ESCAPE_PCM_VEH_ODO: 102019.8
+  response: 7E80762F4A6000F9126
+- expected_values:
     ESCAPE_PCM_VEH_ODO: 152462.2
   response: 7E80762F4A60017438E
 - expected_values:

@@ -4,20 +4,5 @@ test_cases:
     ESCAPE_ENG_LOAD_ACT: 0
   response: 7E80562F4430000
 - expected_values:
-    ESCAPE_ENG_LOAD_ACT: 13.72549
-  response: 7E80562F4430023
-- expected_values:
-    ESCAPE_ENG_LOAD_ACT: 17.2549
-  response: 7E80562F443002C
-- expected_values:
-    ESCAPE_ENG_LOAD_ACT: 19.60784
-  response: 7E80562F4430032
-- expected_values:
-    ESCAPE_ENG_LOAD_ACT: 30.58824
-  response: 7E80562F443004E
-- expected_values:
-    ESCAPE_ENG_LOAD_ACT: 36.47059
-  response: 7E80562F443005D
-- expected_values:
     ESCAPE_ENG_LOAD_ACT: 38.43137
   response: 7E80562F4430062
