@@ -10,6 +10,12 @@ test_cases:
     ESCAPE_ERT: 19
   response: '7E80462112613'
 - expected_values:
+    ESCAPE_ERT: 51
+  response: '7E80462112633'
+- expected_values:
+    ESCAPE_ERT: 110
+  response: 7E8046211266E
+- expected_values:
     ESCAPE_ERT: 120
   response: '7E80462112678'
 - expected_values:
