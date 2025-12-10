@@ -4,11 +4,11 @@ test_cases:
     ESCAPE_DTE_DISP: 78.1
   response: 7E805624195030D
 - expected_values:
+    ESCAPE_DTE_DISP: 435.2
+  response: '7E8056241951100'
+- expected_values:
     ESCAPE_DTE_DISP: 460.7
   response: 7E80562419511FF
-- expected_values:
-    ESCAPE_DTE_DISP: 460.8
-  response: '7E8056241951200'
 - expected_values:
     ESCAPE_DTE_DISP: 563.4
   response: '7E8056241951602'
