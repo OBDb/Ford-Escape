@@ -10,6 +10,7 @@ supported_commands_by_ecu:
   - 726.72E.224027:ESCAPE_BATT_AGE
   - 726.72E.224028:ESCAPE_BATT_SOC
   "7DF":
+  - 7DF.0106
   - 7DF.0134
   - 7DF.0144
   - 7DF.015B
