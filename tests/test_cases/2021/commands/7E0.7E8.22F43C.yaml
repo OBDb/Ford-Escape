@@ -7,8 +7,8 @@ test_cases:
     ESCAPE_CAT_TEMP: 420.8
   response: 7E80562F43C1200
 - expected_values:
-    ESCAPE_CAT_TEMP: 471.9
-  response: 7E80562F43C13FF
+    ESCAPE_CAT_TEMP: 446.3
+  response: 7E80562F43C12FF
 - expected_values:
     ESCAPE_CAT_TEMP: 917.4
   response: 7E80562F43C2566
