@@ -7,8 +7,8 @@ test_cases:
     ESCAPE_DTE: 255.9
   response: 7E80562419409FF
 - expected_values:
-    ESCAPE_DTE: 281.6
-  response: 7E8056241940B00
+    ESCAPE_DTE: 256
+  response: 7E8056241940A00
 - expected_values:
     ESCAPE_DTE: 564.4
   response: 7E805624194160C
