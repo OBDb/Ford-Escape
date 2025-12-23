@@ -4,5 +4,5 @@ test_cases:
     ESCAPE_AAT_ALT: -8
   response: 7E80462057D40
 - expected_values:
-    ESCAPE_AAT_ALT: 26
-  response: 7E80462057D84
+    ESCAPE_AAT_ALT: 30
+  response: 7E80462057D8C
