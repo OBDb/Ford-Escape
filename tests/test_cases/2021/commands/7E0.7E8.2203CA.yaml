@@ -4,5 +4,5 @@ test_cases:
     ESCAPE_MCT: 0
   response: 7E8046203CA00
 - expected_values:
-    ESCAPE_MCT: 72
-  response: 7E8046203CA48
+    ESCAPE_MCT: 80
+  response: 7E8046203CA50
