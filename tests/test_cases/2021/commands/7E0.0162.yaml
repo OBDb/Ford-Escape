@@ -7,5 +7,8 @@ test_cases:
     TQ_ACT: 7
   response: '7E803416284'
 - expected_values:
+    TQ_ACT: 8
+  response: '7E803416285'
+- expected_values:
     TQ_ACT: 13
   response: 7E80341628A

@@ -4,6 +4,9 @@ test_cases:
     ESCAPE_OAR: 0.23846
   response: 7E8056203E80F43
 - expected_values:
+    ESCAPE_OAR: 0.27106
+  response: 7E8056203E81159
+- expected_values:
     ESCAPE_OAR: 0
   response: 7E8056203E8C1B6
 - expected_values:
