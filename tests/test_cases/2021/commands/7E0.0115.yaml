@@ -5,6 +5,14 @@ test_cases:
     SHRTFT11: 71.21875
   response: 7E804411547FF
 - expected_values:
+    O2S12: 0.61
+    SHRTFT11: 71.21875
+  response: 7E80441157AFF
+- expected_values:
+    O2S12: 0.615
+    SHRTFT11: 71.21875
+  response: 7E80441157BFF
+- expected_values:
     O2S12: 0.64
     SHRTFT11: 71.21875
   response: 7E804411580FF

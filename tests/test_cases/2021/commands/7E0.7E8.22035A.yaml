@@ -4,8 +4,8 @@ test_cases:
     ESCAPE_BARO_V: 3.70968
   response: 7E80562035A02F7
 - expected_values:
-    ESCAPE_BARO_V: 3.72434
-  response: 7E80562035A02FA
+    ESCAPE_BARO_V: 3.74878
+  response: 7E80562035A02FF
 - expected_values:
     ESCAPE_BARO_V: 3.79277
   response: 7E80562035A0308
