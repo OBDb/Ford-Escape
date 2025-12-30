@@ -251,7 +251,7 @@
   "signals": [
     {"id": "ESCAPE_KS2_RAW", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Knock sensor, 2"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0415"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2022], "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0415"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018, 2019], "from": 2025 },
   "signals": [
     {"id": "ESCAPE_PCM_ENG_EOP_RAW", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "kilopascal" }, "name": "Oil pressure"}
   ]},
@@ -279,7 +279,7 @@
   "signals": [
     {"id": "ESCAPE_TIP_DES_ABS", "path": "Engine", "fmt": { "len": 16, "max": 72.5, "mul": 37, "div": 33441, "unit": "psi" }, "name": "Throttle inlet pressure, desired"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "046F"}, "freq": 2, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2022], "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "046F"}, "freq": 2, "dbgfilter": { "to": 2016, "years": [2018, 2019], "from": 2025 },
   "signals": [
     {"id": "ESCAPE_INJ_MODE", "path": "Engine", "fmt": { "len": 8, "max": 7, "unit": "scalar" }, "name": "Injection mode"}
   ]},
@@ -299,7 +299,7 @@
   "signals": [
     {"id": "ESCAPE_AAT_ALT", "path": "Climate", "fmt": { "len": 8, "max": 87.5, "min": -40, "div": 2, "add": -40, "unit": "celsius" }, "name": "Ambient temperature, alternate"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "05AC"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018, 2019], "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "05AC"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018, 2019], "from": 2023 },
   "signals": [
     {"id": "ESCAPE_PCM_CYL_1_KNK_COMB_PERF_CNT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Knock counter, cylinder 1"}
   ]},
