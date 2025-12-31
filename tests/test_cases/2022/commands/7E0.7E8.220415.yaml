@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     ESCAPE_PCM_ENG_EOP_RAW: 289
   response: '7E80562041501210000'
+- expected_values:
+    ESCAPE_PCM_ENG_EOP_RAW: 293
+  response: '7E80562041501250000'

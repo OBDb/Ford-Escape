@@ -231,7 +231,7 @@
   "signals": [
     {"id": "ESCAPE_MCT", "path": "Engine", "fmt": { "len": 8, "max": 148.889, "unit": "celsius" }, "name": "Manifold temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03DC"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2015, 2016, 2018, 2019, 2022], "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03DC"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2015, 2016, 2018, 2019], "from": 2025 },
   "signals": [
     {"id": "ESCAPE_HPFP_DES", "path": "Engine", "fmt": { "len": 16, "max": 3500, "mul": 1.4503773969, "unit": "psi" }, "name": "Fuel pressure, high desired"}
   ]},
@@ -255,7 +255,7 @@
   "signals": [
     {"id": "ESCAPE_PCM_ENG_EOP_RAW", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "kilopascal" }, "name": "Oil pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "041F"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2022], "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "041F"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018, 2019], "from": 2025 },
   "signals": [
     {"id": "ESCAPE_LPFP_DES", "path": "Engine", "fmt": { "len": 8, "max": 110, "mul": 435, "div": 1000, "unit": "psi" }, "name": "Fuel pressure, low desired"}
   ]},
@@ -383,7 +383,7 @@
         }}
     }
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E16"}, "freq": 5, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2018, 2019, 2022], "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E16"}, "freq": 5, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2018, 2019], "from": 2025 },
   "signals": [
     {"id": "ESCAPE_AXLE_GEAR_RATIO_MEAS", "path": "Transmission", "fmt": { "len": 16, "max": 10, "div": 4096, "unit": "scalar" }, "name": "Axle gear ratio, measured"}
   ]},
@@ -395,7 +395,7 @@
   "signals": [
     {"id": "ESCAPE_PCM_CMD_TRANS_MAIN_LINE_P", "path": "Transmission", "fmt": { "len": 16, "max": 65534, "min": -65536, "mul": 2, "sign": true, "unit": "kilopascal" }, "name": "Transmission pressure, commanded"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E1F"}, "freq": 1, "dbgfilter": { "to": 2019, "years": [2022], "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E1F"}, "freq": 1, "dbgfilter": { "to": 2019, "from": 2025 },
   "signals": [
     {"id": "ESCAPE_GEAR_ENG", "path": "Transmission", "fmt": { "len": 8, "max": 6, "unit": "scalar" }, "name": "Gear, engaged"}
   ]},
