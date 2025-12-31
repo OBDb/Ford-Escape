@@ -119,7 +119,7 @@
   "signals": [
     {"id": "ESCAPE_VCT_INT_ACT", "path": "Engine", "fmt": { "len": 16, "max": 0, "div": 16, "unit": "degrees" }, "name": "Camshaft position, intake actual"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0319"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016, 2018, 2019, 2022], "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0319"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016, 2018, 2019], "from": 2025 },
   "signals": [
     {"id": "ESCAPE_VCT_EXH_ACT", "path": "Engine", "fmt": { "len": 16, "max": 50, "div": 16, "unit": "degrees" }, "name": "Camshaft position, exhaust actual"}
   ]},
@@ -131,7 +131,7 @@
   "signals": [
     {"id": "ESCAPE_VCT_EXH_ERR", "path": "Engine", "fmt": { "len": 16, "max": 50, "div": 16, "unit": "degrees" }, "name": "Camshaft position error, exhaust"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0324"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2015, 2016, 2018, 2019, 2022], "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0324"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2015, 2016, 2018, 2019], "from": 2025 },
   "signals": [
     {"id": "ESCAPE_HPFP_V", "path": "Engine", "fmt": { "len": 16, "max": 5, "mul": 5, "div": 1023, "unit": "volts" }, "name": "Fuel rail sensor voltage, high pressure"}
   ]},
@@ -283,7 +283,7 @@
   "signals": [
     {"id": "ESCAPE_INJ_MODE", "path": "Engine", "fmt": { "len": 8, "max": 7, "unit": "scalar" }, "name": "Injection mode"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0548"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2022], "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0548"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018, 2019], "from": 2025 },
   "signals": [
     {"id": "ESCAPE_LPFP_ACT", "path": "Engine", "fmt": { "len": 16, "max": 200, "mul": 10000, "div": 137892, "sign": true, "unit": "psi" }, "name": "Fuel pressure, low actual"}
   ]},
