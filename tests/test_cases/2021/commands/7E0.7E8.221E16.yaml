@@ -4,8 +4,11 @@ test_cases:
     ESCAPE_AXLE_GEAR_RATIO_MEAS: 0.61646
   response: 7E805621E1609DD
 - expected_values:
-    ESCAPE_AXLE_GEAR_RATIO_MEAS: 4.6853
-  response: 7E805621E164AF7
+    ESCAPE_AXLE_GEAR_RATIO_MEAS: 0.99976
+  response: 7E805621E160FFF
+- expected_values:
+    ESCAPE_AXLE_GEAR_RATIO_MEAS: 1
+  response: 7E805621E161000
 - expected_values:
     ESCAPE_AXLE_GEAR_RATIO_MEAS: 10
   response: 7E805621E16A000
