@@ -363,7 +363,7 @@
   "signals": [
     {"id": "ESCAPE_IGN_TIM_CYL1", "path": "Engine", "fmt": { "len": 16, "max": 80, "min": -80, "div": 4, "sign": true, "unit": "degrees" }, "name": "Ignition timing, cylinder 1"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1279"}, "freq": 5, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2018, 2019, 2022], "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1279"}, "freq": 5, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2018, 2019], "from": 2025 },
   "signals": [
     {"id": "ESCAPE_IAT_SENS_V", "path": "Engine", "fmt": { "len": 16, "max": 5, "mul": 5, "div": 1023, "unit": "volts" }, "name": "Intake temperature sensor voltage"}
   ]},
