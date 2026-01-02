@@ -275,7 +275,7 @@
   "signals": [
     {"id": "ESCAPE_WGDC", "path": "Engine", "fmt": { "len": 16, "max": 100, "mul": 100, "div": 32768, "unit": "percent" }, "name": "Wastegate duty cycle"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0466"}, "freq": 0.25, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2022], "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0466"}, "freq": 0.25, "dbgfilter": { "to": 2016, "years": [2018, 2019], "from": 2025 },
   "signals": [
     {"id": "ESCAPE_TIP_DES_ABS", "path": "Engine", "fmt": { "len": 16, "max": 72.5, "mul": 37, "div": 33441, "unit": "psi" }, "name": "Throttle inlet pressure, desired"}
   ]},
@@ -303,7 +303,7 @@
   "signals": [
     {"id": "ESCAPE_PCM_CYL_1_KNK_COMB_PERF_CNT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Knock counter, cylinder 1"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "05AD"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018, 2019], "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "05AD"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018, 2019], "from": 2023 },
   "signals": [
     {"id": "ESCAPE_PCM_CYL_2_KNK_COMB_PERF_CNT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Knock counter, cylinder 2"}
   ]},
