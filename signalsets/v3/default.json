@@ -1,5 +1,5 @@
 { "commands": [
-{ "hdr": "720", "rax": "728", "cmd": {"22": "6185"}, "freq": 1, "filter": { "to": 2012 }, "dbgfilter": { "to": 2011, "from": 2013 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "6185"}, "freq": 1, "filter": { "to": 2012 }, "dbgfilter": { "to": 2011 },
   "signals": [
     {"id": "ESCAPE_FLI_ALT", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel tank level", "suggestedMetric": "fuelTankLevel"}
   ]},
