@@ -1,0 +1,14 @@
+command_id: 726.72E.222816|f=2015-
+test_cases:
+- expected_values:
+    ESCAPE_TP_RLO: 26.9
+  response: 72E05622816021A
+- expected_values:
+    ESCAPE_TP_RLO: 32.3
+  response: '72E0562281602860000'
+- expected_values:
+    ESCAPE_TP_RLO: 33.4
+  response: 72E05622816029C0000
+- expected_values:
+    ESCAPE_TP_RLO: 37
+  response: 72E0562281602E4
