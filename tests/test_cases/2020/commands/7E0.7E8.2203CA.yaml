@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2203CA
 test_cases:
 - expected_values:
-    ESCAPE_MCT: 64
-  response: 7E8046203CA40
+    ESCAPE_MCT: 0
+  response: 7E8046203CA00
 - expected_values:
     ESCAPE_MCT: 105
   response: 7E8046203CA69
