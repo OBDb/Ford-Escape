@@ -4,6 +4,9 @@ test_cases:
     ESCAPE_BATT_AGE: 208
   response: 72E0562402700D0
 - expected_values:
+    ESCAPE_BATT_AGE: 491
+  response: 72E0562402701EB
+- expected_values:
     ESCAPE_BATT_AGE: 1377
   response: '72E056240270561'
 - expected_values:
