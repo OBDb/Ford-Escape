@@ -11,4 +11,4 @@ test_cases:
   response: 7E805621E1C02FF
 - expected_values:
     ESCAPE_TOT: 255
-  response: 7E805621E1CFFF9
+  response: 7E805621E1CFFC5
