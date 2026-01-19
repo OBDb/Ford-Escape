@@ -255,7 +255,7 @@
   "signals": [
     {"id": "ESCAPE_BPV_OPEN", "path": "Engine", "fmt": { "len": 8, "max": 1, "div": 255, "unit": "scalar" }, "name": "Bypass valve"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0460"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0460"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "ESCAPE_CAT_SENS_V", "path": "Engine", "fmt": { "len": 16, "max": 5, "div": 1024, "sign": true, "unit": "volts" }, "name": "Charge air temperature sensor voltage"}
   ]},

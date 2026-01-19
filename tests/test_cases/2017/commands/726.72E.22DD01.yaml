@@ -7,5 +7,5 @@ test_cases:
     ESCAPE_ODO_726: 166748
   response: 72E0662DD01028B5C
 - expected_values:
-    ESCAPE_ODO_726: 166791
-  response: 72E0662DD01028B87
+    ESCAPE_ODO_726: 252555
+  response: 72E0662DD0103DA8B
