@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.220334
 test_cases:
 - expected_values:
+    ESCAPE_PCM_CYL_HEAD_T_CORR: 19.26562
+  response: 7E80562033404D1
+- expected_values:
     ESCAPE_PCM_CYL_HEAD_T_CORR: 24
   response: '7E8056203340600'
 - expected_values:
