@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     ESCAPE_ACC_POS: 9.5
   response: 7E80462032B13
+- expected_values:
+    ESCAPE_ACC_POS: 10
+  response: 7E80462032B14
