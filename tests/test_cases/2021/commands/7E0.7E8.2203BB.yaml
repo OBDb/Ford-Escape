@@ -7,5 +7,5 @@ test_cases:
     ESCAPE_VCT_EXH_DES: 31.9375
   response: 7E8056203BB01FF
 - expected_values:
-    ESCAPE_VCT_EXH_DES: 51.125
-  response: 7E8056203BB0332
+    ESCAPE_VCT_EXH_DES: 49.6875
+  response: 7E8056203BB031B
