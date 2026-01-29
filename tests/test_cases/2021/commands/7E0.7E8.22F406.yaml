@@ -4,5 +4,5 @@ test_cases:
     ESCAPE_STFT: -14.84375
   response: 7E80462F4066D
 - expected_values:
-    ESCAPE_STFT: 22.65625
-  response: 7E80462F4069D
+    ESCAPE_STFT: 23.4375
+  response: 7E80462F4069E
