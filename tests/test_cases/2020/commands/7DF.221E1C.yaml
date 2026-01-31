@@ -13,5 +13,5 @@ test_cases:
     ESCAPE_TOT: 255
   response: 7E805621E1CFFF9
 - expected_values:
-    ESCAPE_TOT: 4.9375
-  response: 7EE05621E1C004F
+    ESCAPE_TOT: 4.625
+  response: 7EE05621E1C004A
