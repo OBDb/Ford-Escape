@@ -3,3 +3,18 @@ test_cases:
 - expected_values:
     ESCAPE_PCM_MISF_ACCEL_CYL4_NORM: 0
   response: 7E80462038B00
+- expected_values:
+    ESCAPE_PCM_MISF_ACCEL_CYL4_NORM: 0.04688
+  response: 7E80462038B03
+- expected_values:
+    ESCAPE_PCM_MISF_ACCEL_CYL4_NORM: 0.90625
+  response: 7E80462038B3A
+- expected_values:
+    ESCAPE_PCM_MISF_ACCEL_CYL4_NORM: -0.0625
+  response: 7E80462038BFC
+- expected_values:
+    ESCAPE_PCM_MISF_ACCEL_CYL4_NORM: -0.04688
+  response: 7E80462038BFD
+- expected_values:
+    ESCAPE_PCM_MISF_ACCEL_CYL4_NORM: -0.03125
+  response: 7E80462038BFE
