@@ -7,5 +7,10 @@ test_cases:
     ESCAPE_FLI: 52.54902
   response: 7E80462F42F86
 - expected_values:
+    ESCAPE_FLI: 69.80392
+  response: |-
+    7E80462F42FB1
+    7E80462F42FB2
+- expected_values:
     ESCAPE_FLI: 100
   response: 7E80462F42FFF
