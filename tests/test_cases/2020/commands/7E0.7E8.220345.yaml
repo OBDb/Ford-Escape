@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     ESCAPE_PCM_MISF_EVENTS_LATEST_CYC: 36
   response: '7E80762034500000024'
+- expected_values:
+    ESCAPE_PCM_MISF_EVENTS_LATEST_CYC: 38
+  response: '7E80762034500000026'
