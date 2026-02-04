@@ -7,8 +7,8 @@ test_cases:
     ESCAPE_TIP_DES_ABS: 14.14677
   response: 7E80562046631F2
 - expected_values:
-    ESCAPE_TIP_DES_ABS: 17.30783
-  response: 7E8056204663D1B
+    ESCAPE_TIP_DES_ABS: 14.44661
+  response: '7E8056204663301'
 - expected_values:
     ESCAPE_TIP_DES_ABS: 25.09928
   response: 7E805620466589D
