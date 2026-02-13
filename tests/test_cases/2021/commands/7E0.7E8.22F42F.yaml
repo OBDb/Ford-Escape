@@ -12,5 +12,10 @@ test_cases:
     7E80462F42FB1
     7E80462F42FB2
 - expected_values:
+    ESCAPE_FLI: 76.47059
+  response: |-
+    7E80462F42FC3
+    7E80462F42FC3
+- expected_values:
     ESCAPE_FLI: 100
   response: 7E80462F42FFF
