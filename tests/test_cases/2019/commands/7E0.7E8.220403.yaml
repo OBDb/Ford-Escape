@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.220403
+test_cases:
+- expected_values:
+    ESCAPE_KS1_RAW: 52
+  response: '7E8056204030034'
+- expected_values:
+    ESCAPE_KS1_RAW: 53
+  response: '7E8056204030035'
+- expected_values:
+    ESCAPE_KS1_RAW: 54
+  response: '7E8056204030036'
+- expected_values:
+    ESCAPE_KS1_RAW: 55
+  response: '7E8056204030037'
+- expected_values:
+    ESCAPE_KS1_RAW: 56
+  response: '7E8056204030038'

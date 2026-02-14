@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2203CA
+test_cases:
+- expected_values:
+    ESCAPE_MCT: 52
+  response: 7E8046203CA34
+- expected_values:
+    ESCAPE_MCT: 53
+  response: 7E8046203CA35
+- expected_values:
+    ESCAPE_MCT: 54
+  response: 7E8046203CA36
