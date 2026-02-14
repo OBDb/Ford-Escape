@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.221166
+test_cases:
+- expected_values:
+    ESCAPE_EVAP_PURGE_CMD: 53.91846
+  response: '7E8056211664504'
+- expected_values:
+    ESCAPE_EVAP_PURGE_CMD: 54.00696
+  response: '7E8056211664521'
+- expected_values:
+    ESCAPE_EVAP_PURGE_CMD: 54.1626
+  response: '7E8056211664554'
+- expected_values:
+    ESCAPE_EVAP_PURGE_CMD: 55.19714
+  response: 7E80562116646A7
+- expected_values:
+    ESCAPE_EVAP_PURGE_CMD: 55.25208
+  response: 7E80562116646B9
+- expected_values:
+    ESCAPE_EVAP_PURGE_CMD: 55.34363
+  response: 7E80562116646D7
+- expected_values:
+    ESCAPE_EVAP_PURGE_CMD: 55.44128
+  response: 7E80562116646F7
+- expected_values:
+    ESCAPE_EVAP_PURGE_CMD: 55.50232
+  response: 7E805621166470B
+- expected_values:
+    ESCAPE_EVAP_PURGE_CMD: 55.62439
+  response: '7E8056211664733'
+- expected_values:
+    ESCAPE_EVAP_PURGE_CMD: 55.63965
+  response: '7E8056211664738'
