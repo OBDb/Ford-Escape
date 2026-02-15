@@ -9,6 +9,11 @@ test_cases:
     72E0562281302CC
     72E0562281302CC
 - expected_values:
+    ESCAPE_TP_FL: 36.85
+  response: |-
+    72E0562281302E1
+    72E0562281302E1
+- expected_values:
     ESCAPE_TP_FL: 36.95
   response: |-
     72E0562281302E3
