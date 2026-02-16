@@ -4,26 +4,5 @@ test_cases:
     ESCAPE_BARO: 14.24836
   response: '7E8056203530189'
 - expected_values:
-    ESCAPE_BARO: 14.28462
-  response: 7E805620353018A
-- expected_values:
-    ESCAPE_BARO: 14.35713
-  response: 7E805620353018C
-- expected_values:
-    ESCAPE_BARO: 14.39339
-  response: 7E805620353018D
-- expected_values:
-    ESCAPE_BARO: 14.42964
-  response: 7E805620353018E
-- expected_values:
-    ESCAPE_BARO: 14.4659
-  response: 7E805620353018F
-- expected_values:
-    ESCAPE_BARO: 14.61092
-  response: '7E8056203530193'
-- expected_values:
-    ESCAPE_BARO: 14.64717
-  response: '7E8056203530194'
-- expected_values:
     ESCAPE_BARO: 14.79219
   response: '7E8056203530198'

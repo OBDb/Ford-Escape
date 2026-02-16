@@ -4,8 +4,8 @@ test_cases:
     ESCAPE_AAT_V: 2.3607
   response: 7E8056203BA01E3
 - expected_values:
-    ESCAPE_AAT_V: 2.48289
-  response: 7E8056203BA01FC
+    ESCAPE_AAT_V: 3.739
+  response: 7E8056203BA02FD
 - expected_values:
     ESCAPE_AAT_V: 3.77322
   response: 7E8056203BA0304
