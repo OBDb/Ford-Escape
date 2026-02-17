@@ -20,5 +20,10 @@ test_cases:
     ESCAPE_TP_FR: 38.45
   response: '72E056228140301'
 - expected_values:
+    ESCAPE_TP_FR: 39.75
+  response: |-
+    72E05622814031B
+    72E05622814031B
+- expected_values:
     ESCAPE_TP_FR: 150
   response: 72E056228140BB8
