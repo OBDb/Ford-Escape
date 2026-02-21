@@ -208,6 +208,7 @@ supported_commands_by_ecu:
   - 7E6.7EE.0105
   - 7E6.7EE.010D
   - 7E6.7EE.0131
+  - 7E6.7EE.0142
 unsupported_commands_by_ecu:
   "720":
   - 720.728.22404C
@@ -241,5 +242,3 @@ unsupported_commands_by_ecu:
   - 7E0.7E8.2205B0
   - 7E0.7E8.2205B1
   - 7E0.7E8.221E19:ESCAPE_PCM_CMD_TRANS_GEAR_RATIO
-  "7E6":
-  - 7E6.7EE.0142
