@@ -30,3 +30,8 @@ test_cases:
   response: |-
     7E80762F4A6001B0972
     7E80762F4A6001B0972
+- expected_values:
+    ESCAPE_PCM_VEH_ODO: 177733
+  response: |-
+    7E80762F4A6001B1EB2
+    7E80762F4A6001B1EB2
