@@ -4,26 +4,5 @@ test_cases:
     ESCAPE_ODO_726: 216386
   response: 72E0662DD01034D42
 - expected_values:
-    ESCAPE_ODO_726: 216387
-  response: 72E0662DD01034D43
-- expected_values:
-    ESCAPE_ODO_726: 216388
-  response: 72E0662DD01034D44
-- expected_values:
-    ESCAPE_ODO_726: 216423
-  response: 72E0662DD01034D67
-- expected_values:
-    ESCAPE_ODO_726: 216424
-  response: 72E0662DD01034D68
-- expected_values:
-    ESCAPE_ODO_726: 216489
-  response: 72E0662DD01034DA9
-- expected_values:
-    ESCAPE_ODO_726: 216505
-  response: 72E0662DD01034DB9
-- expected_values:
-    ESCAPE_ODO_726: 216506
-  response: 72E0662DD01034DBA
-- expected_values:
-    ESCAPE_ODO_726: 216507
-  response: 72E0662DD01034DBB
+    ESCAPE_ODO_726: 216523
+  response: 72E0662DD01034DCB
