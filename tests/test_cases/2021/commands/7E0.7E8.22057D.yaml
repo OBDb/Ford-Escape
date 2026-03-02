@@ -9,5 +9,10 @@ test_cases:
     7E80462057D62
     7E80462057D62
 - expected_values:
+    ESCAPE_AAT_ALT: 11
+  response: |-
+    7E80462057D66
+    7E80462057D66
+- expected_values:
     ESCAPE_AAT_ALT: 42
   response: 7E80462057DA4
