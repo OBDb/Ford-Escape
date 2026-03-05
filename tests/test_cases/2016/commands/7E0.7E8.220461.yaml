@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220461
+test_cases:
+- expected_values:
+    ESCAPE_CAT: -22.84375
+  response: 7E805620461044A
+- expected_values:
+    ESCAPE_CAT: -22.71875
+  response: '7E8056204610452'
+- expected_values:
+    ESCAPE_CAT: -22.59375
+  response: 7E805620461045A
