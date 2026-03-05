@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221166
+test_cases:
+- expected_values:
+    ESCAPE_EVAP_PURGE_CMD: 6.67114
+  response: 7E805621166088A
+- expected_values:
+    ESCAPE_EVAP_PURGE_CMD: 7.24487
+  response: '7E8056211660946'
+- expected_values:
+    ESCAPE_EVAP_PURGE_CMD: 7.25098
+  response: '7E8056211660948'
+- expected_values:
+    ESCAPE_EVAP_PURGE_CMD: 7.25403
+  response: '7E8056211660949'
