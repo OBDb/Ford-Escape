@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     ESCAPE_ENG_LOAD_ACT: 96.47059
   response: 7E80562F44300F6
+- expected_values:
+    ESCAPE_ENG_LOAD_ACT: 103.52941
+  response: 7E80562F4430108
