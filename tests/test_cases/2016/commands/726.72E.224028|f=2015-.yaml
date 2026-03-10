@@ -1,5 +1,11 @@
 command_id: 726.72E.224028|f=2015-
 test_cases:
 - expected_values:
+    ESCAPE_BATT_SOC: 1.96078
+  response: '72E0462402805'
+- expected_values:
+    ESCAPE_BATT_SOC: 2.7451
+  response: '72E0462402807'
+- expected_values:
     ESCAPE_BATT_SOC: 5.4902
   response: 72E046240280E

@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     ESCAPE_IAT_ALT2: 18
   response: 7E80462F40F3A
+- expected_values:
+    ESCAPE_IAT_ALT2: 73
+  response: 7E80462F40F71
+- expected_values:
+    ESCAPE_IAT_ALT2: 76
+  response: 7E80462F40F74
