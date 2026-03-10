@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     ESCAPE_TIP_V: 1.5918
   response: 7E80562033C0146
+- expected_values:
+    ESCAPE_TIP_V: 1.61621
+  response: 7E80562033C014B

@@ -12,3 +12,12 @@ test_cases:
 - expected_values:
     ESCAPE_AC_P: 81.22114
   response: '7E8056203930118'
+- expected_values:
+    ESCAPE_AC_P: 226.54896
+  response: 7E805620393030D
+- expected_values:
+    ESCAPE_AC_P: 239.31228
+  response: '7E8056203930339'
+- expected_values:
+    ESCAPE_AC_P: 343.44939
+  response: 7E80562039304A0

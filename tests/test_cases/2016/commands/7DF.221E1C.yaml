@@ -4,23 +4,8 @@ test_cases:
     ESCAPE_TOT: 37.875
   response: 7E805621E1C025E
 - expected_values:
-    ESCAPE_TOT: 38.5
-  response: 7E805621E1C0268
+    ESCAPE_TOT: 95.875
+  response: 7E805621E1C05FE
 - expected_values:
-    ESCAPE_TOT: 38.6875
-  response: 7E805621E1C026B
-- expected_values:
-    ESCAPE_TOT: 39.6875
-  response: 7E805621E1C027B
-- expected_values:
-    ESCAPE_TOT: 40.75
-  response: 7E805621E1C028C
-- expected_values:
-    ESCAPE_TOT: 67.4375
-  response: 7E805621E1C0437
-- expected_values:
-    ESCAPE_TOT: 71.5625
-  response: 7E805621E1C0479
-- expected_values:
-    ESCAPE_TOT: 75
-  response: 7E805621E1C04B0
+    ESCAPE_TOT: 96.5
+  response: 7E805621E1C0608

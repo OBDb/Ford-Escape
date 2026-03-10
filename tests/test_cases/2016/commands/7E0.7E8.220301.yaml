@@ -9,3 +9,9 @@ test_cases:
 - expected_values:
     ESCAPE_MAP_V: 0.61035
   response: '7E8056203010271'
+- expected_values:
+    ESCAPE_MAP_V: 0.70312
+  response: 7E80562030102D0
+- expected_values:
+    ESCAPE_MAP_V: 0.70801
+  response: 7E80562030102D5

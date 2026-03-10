@@ -7,6 +7,9 @@ test_cases:
     ESCAPE_LPFP_SENS_V: 3.53027
   response: 7E80562054D0E1F
 - expected_values:
+    ESCAPE_LPFP_SENS_V: 3.62793
+  response: 7E80562054D0E83
+- expected_values:
     ESCAPE_LPFP_SENS_V: 3.90625
   response: 7E80562054D0FA0
 - expected_values:
