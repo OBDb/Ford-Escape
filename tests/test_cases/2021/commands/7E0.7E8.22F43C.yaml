@@ -20,5 +20,5 @@ test_cases:
     7E80562F43C2087
     7E80562F43C20A5
 - expected_values:
-    ESCAPE_CAT_TEMP: 907.7
-  response: 7E80562F43C2505
+    ESCAPE_CAT_TEMP: 907.6
+  response: 7E80562F43C2504
