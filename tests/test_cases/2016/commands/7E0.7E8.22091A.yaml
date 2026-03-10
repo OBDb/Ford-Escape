@@ -15,3 +15,15 @@ test_cases:
 - expected_values:
     ESCAPE_ETC_ANG_DES: 2.37891
   response: 7E80562091A04C2
+- expected_values:
+    ESCAPE_ETC_ANG_DES: 2.98047
+  response: 7E80562091A05F6
+- expected_values:
+    ESCAPE_ETC_ANG_DES: 3.00391
+  response: 7E80562091A0602
+- expected_values:
+    ESCAPE_ETC_ANG_DES: 3.01172
+  response: 7E80562091A0606
+- expected_values:
+    ESCAPE_ETC_ANG_DES: 3.09375
+  response: 7E80562091A0630
