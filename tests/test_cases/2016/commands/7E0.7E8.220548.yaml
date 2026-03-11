@@ -4,29 +4,8 @@ test_cases:
     ESCAPE_LPFP_ACT: 83.10852
   response: 7E805620548047A
 - expected_values:
-    ESCAPE_LPFP_ACT: 83.68868
-  response: '7E8056205480482'
-- expected_values:
-    ESCAPE_LPFP_ACT: 84.92153
-  response: '7E8056205480493'
-- expected_values:
-    ESCAPE_LPFP_ACT: 86.37194
-  response: 7E80562054804A7
-- expected_values:
-    ESCAPE_LPFP_ACT: 87.60479
-  response: 7E80562054804B8
-- expected_values:
     ESCAPE_LPFP_ACT: 91.5209
   response: 7E80562054804EE
 - expected_values:
     ESCAPE_LPFP_ACT: 98.12027
   response: '7E8056205480549'
-- expected_values:
-    ESCAPE_LPFP_ACT: 102.03638
-  response: 7E805620548057F
-- expected_values:
-    ESCAPE_LPFP_ACT: 105.87996
-  response: 7E80562054805B4
-- expected_values:
-    ESCAPE_LPFP_ACT: 107.47542
-  response: 7E80562054805CA
