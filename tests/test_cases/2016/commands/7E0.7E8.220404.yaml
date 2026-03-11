@@ -4,6 +4,12 @@ test_cases:
     ESCAPE_KS2_RAW: 8
   response: '7E8056204040008'
 - expected_values:
+    ESCAPE_KS2_RAW: 47
+  response: 7E805620404002F
+- expected_values:
+    ESCAPE_KS2_RAW: 48
+  response: '7E8056204040030'
+- expected_values:
     ESCAPE_KS2_RAW: 50
   response: '7E8056204040032'
 - expected_values:
