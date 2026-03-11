@@ -13,5 +13,17 @@ test_cases:
     ESCAPE_LPFP_DUTY: 24.5697
   response: 7E8056203071F73
 - expected_values:
+    ESCAPE_LPFP_DUTY: 29.02222
+  response: '7E8056203072526'
+- expected_values:
+    ESCAPE_LPFP_DUTY: 29.19922
+  response: '7E8056203072560'
+- expected_values:
     ESCAPE_LPFP_DUTY: 29.44336
   response: 7E80562030725B0
+- expected_values:
+    ESCAPE_LPFP_DUTY: 29.45862
+  response: 7E80562030725B5
+- expected_values:
+    ESCAPE_LPFP_DUTY: 29.56543
+  response: 7E80562030725D8

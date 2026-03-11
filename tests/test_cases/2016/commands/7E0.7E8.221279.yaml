@@ -1,6 +1,15 @@
 command_id: 7E0.7E8.221279
 test_cases:
 - expected_values:
+    ESCAPE_IAT_SENS_V: 0.60117
+  response: 7E805621279007B
+- expected_values:
+    ESCAPE_IAT_SENS_V: 0.61095
+  response: 7E805621279007D
+- expected_values:
+    ESCAPE_IAT_SENS_V: 0.69404
+  response: 7E805621279008E
+- expected_values:
     ESCAPE_IAT_SENS_V: 0.7087
   response: '7E8056212790091'
 - expected_values:

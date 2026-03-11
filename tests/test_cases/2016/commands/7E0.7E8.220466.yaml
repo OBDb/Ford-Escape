@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     ESCAPE_TIP_DES_ABS: 14.12796
   response: 7E80562046631E1
+- expected_values:
+    ESCAPE_TIP_DES_ABS: 14.14345
+  response: 7E80562046631EF
