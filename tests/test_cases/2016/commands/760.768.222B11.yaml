@@ -7,6 +7,9 @@ test_cases:
     ESCAPE_LAT_G: 0.28
   response: 76805622B11000E
 - expected_values:
+    ESCAPE_LAT_G: 0.36
+  response: 76805622B110012
+- expected_values:
     ESCAPE_LAT_G: 0.38
   response: 76805622B110013
 - expected_values:

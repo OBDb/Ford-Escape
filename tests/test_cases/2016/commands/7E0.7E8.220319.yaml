@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.220319
 test_cases:
 - expected_values:
+    ESCAPE_VCT_EXH_ACT: 0
+  response: '7E8056203190000'
+- expected_values:
+    ESCAPE_VCT_EXH_ACT: 0.0625
+  response: '7E8056203190001'
+- expected_values:
     ESCAPE_VCT_EXH_ACT: 0.125
   response: '7E8056203190002'
 - expected_values:
@@ -9,3 +15,6 @@ test_cases:
 - expected_values:
     ESCAPE_VCT_EXH_ACT: 50
   response: 7E805620319FFFD
+- expected_values:
+    ESCAPE_VCT_EXH_ACT: 50
+  response: 7E805620319FFFE

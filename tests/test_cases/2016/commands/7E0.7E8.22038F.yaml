@@ -4,8 +4,8 @@ test_cases:
     ESCAPE_ECT: 58.39062
   response: 7E80562038F0E99
 - expected_values:
-    ESCAPE_ECT: 99.92188
-  response: 7E80562038F18FB
+    ESCAPE_ECT: 99.98438
+  response: 7E80562038F18FF
 - expected_values:
-    ESCAPE_ECT: 100.07812
-  response: 7E80562038F1905
+    ESCAPE_ECT: 100.01562
+  response: 7E80562038F1901
