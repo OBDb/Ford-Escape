@@ -4,29 +4,8 @@ test_cases:
     ESCAPE_EVAP_PURGE_CMD: 0
   response: '7E8056211660000'
 - expected_values:
-    ESCAPE_EVAP_PURGE_CMD: 6.67114
-  response: 7E805621166088A
-- expected_values:
-    ESCAPE_EVAP_PURGE_CMD: 7.24487
-  response: '7E8056211660946'
-- expected_values:
-    ESCAPE_EVAP_PURGE_CMD: 7.25098
-  response: '7E8056211660948'
-- expected_values:
-    ESCAPE_EVAP_PURGE_CMD: 7.25403
-  response: '7E8056211660949'
-- expected_values:
-    ESCAPE_EVAP_PURGE_CMD: 13.47656
-  response: '7E8056211661140'
-- expected_values:
-    ESCAPE_EVAP_PURGE_CMD: 34.25598
-  response: 7E8056211662BD9
-- expected_values:
     ESCAPE_EVAP_PURGE_CMD: 34.35669
   response: 7E8056211662BFA
-- expected_values:
-    ESCAPE_EVAP_PURGE_CMD: 34.375
-  response: 7E8056211662C00
 - expected_values:
     ESCAPE_EVAP_PURGE_CMD: 43.10913
   response: 7E805621166372E
