@@ -10,5 +10,5 @@ test_cases:
     ESCAPE_RPM: 704
   response: 7E80562F40C0B00
 - expected_values:
-    ESCAPE_RPM: 3070
-  response: 7E80562F40C2FF8
+    ESCAPE_RPM: 3772.5
+  response: 7E80562F40C3AF2
