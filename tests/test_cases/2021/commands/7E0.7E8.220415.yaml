@@ -9,6 +9,11 @@ test_cases:
     7E80562041500A2
     7E80562041500A3
 - expected_values:
+    ESCAPE_PCM_ENG_EOP_RAW: 194
+  response: |-
+    7E80562041500C0
+    7E80562041500C2
+- expected_values:
     ESCAPE_PCM_ENG_EOP_RAW: 254
   response: 7E80562041500FE
 - expected_values:
