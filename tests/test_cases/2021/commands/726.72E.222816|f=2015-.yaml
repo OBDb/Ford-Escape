@@ -9,11 +9,6 @@ test_cases:
     72E0562281602CA
     72E0562281602CA
 - expected_values:
-    ESCAPE_TP_RLO: 37
-  response: |-
-    72E0562281602E4
-    72E0562281602E4
-- expected_values:
     ESCAPE_TP_RLO: 37.45
   response: |-
     72E0562281602ED
@@ -34,6 +29,11 @@ test_cases:
   response: |-
     72E05622816030C
     72E05622816030C
+- expected_values:
+    ESCAPE_TP_RLO: 39.35
+  response: |-
+    72E056228160313
+    72E056228160313
 - expected_values:
     ESCAPE_TP_RLO: 150
   response: 72E056228160BB8
