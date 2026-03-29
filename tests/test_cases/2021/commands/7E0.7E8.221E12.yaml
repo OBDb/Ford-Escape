@@ -27,5 +27,10 @@ test_cases:
     ESCAPE_GEAR: '7'
   response: 7E804621E1207
 - expected_values:
+    ESCAPE_GEAR: '7'
+  response: |-
+    7E804621E1207
+    7E804621E1207
+- expected_values:
     ESCAPE_GEAR: '8'
   response: 7E804621E1208
