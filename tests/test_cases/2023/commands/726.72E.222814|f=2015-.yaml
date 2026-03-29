@@ -4,6 +4,9 @@ test_cases:
     ESCAPE_TP_FR: 26.15
   response: 72E05622814020B
 - expected_values:
+    ESCAPE_TP_FR: 35.6
+  response: 72E0562281402C8
+- expected_values:
     ESCAPE_TP_FR: 38.8
   response: '72E056228140308'
 - expected_values:
