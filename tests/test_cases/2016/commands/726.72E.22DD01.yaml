@@ -4,6 +4,9 @@ test_cases:
     ESCAPE_ODO_726: 318659
   response: '72E 06 62 DD 01 04 DC C3 '
 - expected_values:
+    ESCAPE_ODO_726: 318667
+  response: '72E 06 62 DD 01 04 DC CB '
+- expected_values:
     ESCAPE_ODO_726: 241713
   response: 72E0662DD0103B031
 - expected_values:
