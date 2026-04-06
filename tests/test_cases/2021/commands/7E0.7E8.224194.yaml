@@ -20,5 +20,5 @@ test_cases:
     7E8056241940ACB
     7E8056241940AD1
 - expected_values:
-    ESCAPE_DTE: 771.2
-  response: 7E8056241941E20
+    ESCAPE_DTE: 949.5
+  response: '7E8056241942517'
