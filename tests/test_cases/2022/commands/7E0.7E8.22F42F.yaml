@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
-    ESCAPE_FLI: 90.19608
-  response: 7E80462F42FE6
+    ESCAPE_FLI: 60.39216
+  response: 7E80462F42F9A
 - expected_values:
     ESCAPE_FLI: 100
   response: 7E80462F42FFF
