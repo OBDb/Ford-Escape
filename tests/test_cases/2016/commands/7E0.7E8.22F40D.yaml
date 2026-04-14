@@ -4,6 +4,12 @@ test_cases:
     ESCAPE_VSS: 0
   response: '7E8 04 62 F4 0D 00 '
 - expected_values:
+    ESCAPE_VSS: 64
+  response: '7E8 04 62 F4 0D 40 '
+- expected_values:
+    ESCAPE_VSS: 77
+  response: '7E8 04 62 F4 0D 4D '
+- expected_values:
     ESCAPE_VSS: 0
   response: 7E80462F40D00
 - expected_values:
