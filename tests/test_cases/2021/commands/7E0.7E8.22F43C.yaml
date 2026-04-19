@@ -15,6 +15,11 @@ test_cases:
     7E80562F43C14F4
     7E80562F43C1535
 - expected_values:
+    ESCAPE_CAT_TEMP: 583.7
+  response: |-
+    7E80562F43C17F2
+    7E80562F43C185D
+- expected_values:
     ESCAPE_CAT_TEMP: 795.7
   response: |-
     7E80562F43C2087
