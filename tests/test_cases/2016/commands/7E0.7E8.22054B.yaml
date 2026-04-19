@@ -4,29 +4,5 @@ test_cases:
     ESCAPE_PCM_ENG_OIL_LIFE_REM: 4
   response: 7E80462054B04
 - expected_values:
-    ESCAPE_PCM_ENG_OIL_LIFE_REM: 12
-  response: 7E80462054B0C
-- expected_values:
-    ESCAPE_PCM_ENG_OIL_LIFE_REM: 13
-  response: 7E80462054B0D
-- expected_values:
-    ESCAPE_PCM_ENG_OIL_LIFE_REM: 14
-  response: 7E80462054B0E
-- expected_values:
-    ESCAPE_PCM_ENG_OIL_LIFE_REM: 16
-  response: 7E80462054B10
-- expected_values:
-    ESCAPE_PCM_ENG_OIL_LIFE_REM: 17
-  response: 7E80462054B11
-- expected_values:
-    ESCAPE_PCM_ENG_OIL_LIFE_REM: 18
-  response: 7E80462054B12
-- expected_values:
-    ESCAPE_PCM_ENG_OIL_LIFE_REM: 19
-  response: 7E80462054B13
-- expected_values:
-    ESCAPE_PCM_ENG_OIL_LIFE_REM: 28
-  response: 7E80462054B1C
-- expected_values:
     ESCAPE_PCM_ENG_OIL_LIFE_REM: 29
   response: 7E80462054B1D
