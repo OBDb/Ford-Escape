@@ -13,9 +13,9 @@ test_cases:
     TP: 87.05882
   response: 7E8034111DE
 - expected_values:
-    TP: 11.76471
+    TP: 10.58824
   response: |-
-    7E8100841111E00BE3E
+    7E8100841111B00BE3E
     7E821A8130000000000
 - expected_values:
     TP: 12.54902
