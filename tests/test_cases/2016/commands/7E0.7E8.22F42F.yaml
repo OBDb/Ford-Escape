@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
+    ESCAPE_FLI: 12.15686
+  response: "22F42F\n7E8 04 62 F4 2F 1F "
+- expected_values:
     ESCAPE_FLI: 0
   response: '7E8 04 62 F4 2F 00 '
 - expected_values:
