@@ -17,5 +17,10 @@ test_cases:
     7E80441310CF6
     7E80441310CF6
 - expected_values:
+    CLR_DIST: 7898
+  response: |-
+    7E80441311EDA
+    7E80441311EDA
+- expected_values:
     CLR_DIST: 62256
   response: 7E8044131F330
