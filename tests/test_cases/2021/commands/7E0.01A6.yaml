@@ -33,3 +33,8 @@ test_cases:
   response: |-
     7E80641A6001B8EB8
     7E80641A6001B8EBB
+- expected_values:
+    ODO: 183416.8
+  response: |-
+    7E80641A6001BFCB4
+    7E80641A6001BFCB8
