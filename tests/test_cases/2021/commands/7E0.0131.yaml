@@ -22,5 +22,10 @@ test_cases:
     7E80441311EDA
     7E80441311EDA
 - expected_values:
+    CLR_DIST: 8271
+  response: |-
+    7E8044131204F
+    7E8044131204F
+- expected_values:
     CLR_DIST: 62256
   response: 7E8044131F330
