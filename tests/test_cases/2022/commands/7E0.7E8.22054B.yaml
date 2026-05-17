@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     ESCAPE_PCM_ENG_OIL_LIFE_REM: 17
   response: 7E80462054B11
+- expected_values:
+    ESCAPE_PCM_ENG_OIL_LIFE_REM: 30
+  response: 7E80462054B1E

@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     ESCAPE_VCT_INT_DES: -44.5625
   response: 7E8056203BCFD37
+- expected_values:
+    ESCAPE_VCT_INT_DES: -18.4375
+  response: 7E8056203BCFED9
+- expected_values:
+    ESCAPE_VCT_INT_DES: -10.9375
+  response: 7E8056203BCFF51
