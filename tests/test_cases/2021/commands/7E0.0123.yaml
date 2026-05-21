@@ -7,6 +7,12 @@ test_cases:
     FRP: 13850
   response: '7E80441230569'
 - expected_values:
+    FRP: 14490
+  response: 7E804412305A9
+- expected_values:
+    FRP: 15030
+  response: 7E804412305DF
+- expected_values:
     FRP: 15190
   response: 7E804412305EF
 - expected_values:
