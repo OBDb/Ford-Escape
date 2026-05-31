@@ -18,3 +18,6 @@ test_cases:
 - expected_values:
     ESCAPE_BATT_AGE: 1719
   response: 72E0562402706B7
+- expected_values:
+    ESCAPE_BATT_AGE: 1825
+  response: '72E056240270755'
