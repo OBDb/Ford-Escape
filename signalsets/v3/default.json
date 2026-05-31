@@ -239,7 +239,7 @@
   "signals": [
     {"id": "ESCAPE_KS1_RAW", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Knock sensor, 1"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0404"}, "freq": 2, "dbgfilter": { "to": 2014, "years": [2018, 2020, 2021], "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0404"}, "freq": 2, "dbgfilter": { "to": 2014, "years": [2018, 2020], "from": 2023 },
   "signals": [
     {"id": "ESCAPE_KS2_RAW", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Knock sensor, 2"}
   ]},
@@ -251,7 +251,7 @@
   "signals": [
     {"id": "ESCAPE_LPFP_DES", "path": "Engine", "fmt": { "len": 8, "max": 110, "mul": 435, "div": 1000, "unit": "psi" }, "name": "Fuel pressure, low desired"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0427"}, "freq": 0.25, "dbgfilter": { "to": 2014, "years": [2018, 2020, 2021], "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0427"}, "freq": 0.25, "dbgfilter": { "to": 2014, "years": [2018, 2020], "from": 2023 },
   "signals": [
     {"id": "ESCAPE_BPV_OPEN", "path": "Engine", "fmt": { "len": 8, "max": 1, "div": 255, "unit": "scalar" }, "name": "Bypass valve"}
   ]},
@@ -303,7 +303,7 @@
   "signals": [
     {"id": "ESCAPE_PCM_CYL_3_KNK_COMB_PERF_CNT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Knock counter, cylinder 3"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "05AF"}, "freq": 1, "dbgfilter": { "to": 2014, "years": [2018, 2020, 2021], "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "05AF"}, "freq": 1, "dbgfilter": { "to": 2014, "years": [2018, 2020], "from": 2023 },
   "signals": [
     {"id": "ESCAPE_PCM_CYL_4_KNK_COMB_PERF_CNT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Knock counter, cylinder 4"}
   ]},
