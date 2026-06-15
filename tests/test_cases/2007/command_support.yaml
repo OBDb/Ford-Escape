@@ -35,3 +35,5 @@ supported_commands_by_ecu:
 unsupported_commands_by_ecu:
   "720":
   - 720.728.226185|f=-2012:ESCAPE_FLI_ALT
+  "7E0":
+  - 7E0.7E8.2203BB:ESCAPE_VCT_EXH_DES
