@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2203DC
+test_cases:
+- expected_values:
+    ESCAPE_HPFP_DES: 17.40453
+  response: 7E8056203DC000C
+- expected_values:
+    ESCAPE_HPFP_DES: 696.18115
+  response: 7E8056203DC01E0
+- expected_values:
+    ESCAPE_HPFP_DES: 3500
+  response: 7E8056203DC09C4
