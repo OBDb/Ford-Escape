@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2205FC
+test_cases:
+- expected_values:
+    ESCAPE_PCM_CYL_HEAD_T_SENS_2_RAW: 52.32812
+  response: 7E8056205FC0D15
+- expected_values:
+    ESCAPE_PCM_CYL_HEAD_T_SENS_2_RAW: 95.9375
+  response: 7E8056205FC17FC
+- expected_values:
+    ESCAPE_PCM_CYL_HEAD_T_SENS_2_RAW: 100.0625
+  response: 7E8056205FC1904
+- expected_values:
+    ESCAPE_PCM_CYL_HEAD_T_SENS_2_RAW: 114.84375
+  response: 7E8056205FC1CB6

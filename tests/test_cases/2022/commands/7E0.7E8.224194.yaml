@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.224194
+test_cases:
+- expected_values:
+    ESCAPE_DTE: 124.2
+  response: 7E80562419404DA
+- expected_values:
+    ESCAPE_DTE: 153.5
+  response: 7E80562419405FF
+- expected_values:
+    ESCAPE_DTE: 204.8
+  response: '7E8056241940800'
+- expected_values:
+    ESCAPE_DTE: 698.3
+  response: 7E8056241941B47

@@ -1,0 +1,26 @@
+command_id: 726.72E.224027
+test_cases:
+- expected_values:
+    ESCAPE_BATT_AGE: 208
+  response: 72E0562402700D0
+- expected_values:
+    ESCAPE_BATT_AGE: 491
+  response: 72E0562402701EB
+- expected_values:
+    ESCAPE_BATT_AGE: 1377
+  response: '72E056240270561'
+- expected_values:
+    ESCAPE_BATT_AGE: 1379
+  response: '72E056240270563'
+- expected_values:
+    ESCAPE_BATT_AGE: 1381
+  response: '72E056240270565'
+- expected_values:
+    ESCAPE_BATT_AGE: 1393
+  response: '72E056240270571'
+- expected_values:
+    ESCAPE_BATT_AGE: 1825
+  response: '72E056240270806'
+- expected_values:
+    ESCAPE_BATT_AGE: 1825
+  response: '72E056240270807'

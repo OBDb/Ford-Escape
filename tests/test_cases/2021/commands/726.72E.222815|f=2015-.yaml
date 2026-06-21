@@ -1,0 +1,44 @@
+command_id: 726.72E.222815|f=2015-
+test_cases:
+- expected_values:
+    ESCAPE_TP_RRO: 11.9
+  response: 72E0562281500EE
+- expected_values:
+    ESCAPE_TP_RRO: 36.6
+  response: |-
+    72E0562281502DC
+    72E0562281502DC
+- expected_values:
+    ESCAPE_TP_RRO: 37.45
+  response: |-
+    72E0562281502ED
+    72E0562281502ED
+- expected_values:
+    ESCAPE_TP_RRO: 37.6
+  response: |-
+    72E0562281502F0
+    72E0562281502F0
+- expected_values:
+    ESCAPE_TP_RRO: 38.1
+  response: |-
+    72E0562281502FA
+    72E0562281502FA
+- expected_values:
+    ESCAPE_TP_RRO: 38.35
+  response: 72E0562281502FF
+- expected_values:
+    ESCAPE_TP_RRO: 38.4
+  response: '72E056228150300'
+- expected_values:
+    ESCAPE_TP_RRO: 38.5
+  response: |-
+    72E056228150302
+    72E056228150302
+- expected_values:
+    ESCAPE_TP_RRO: 41.25
+  response: |-
+    72E056228150339
+    72E056228150339
+- expected_values:
+    ESCAPE_TP_RRO: 150
+  response: 72E056228150BB8

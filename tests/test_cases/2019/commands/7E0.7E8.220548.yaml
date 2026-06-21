@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.220548
+test_cases:
+- expected_values:
+    ESCAPE_LPFP_ACT: 67.58913
+  response: 7E80562054803A4
+- expected_values:
+    ESCAPE_LPFP_ACT: 67.73417
+  response: 7E80562054803A6
+- expected_values:
+    ESCAPE_LPFP_ACT: 68.02425
+  response: 7E80562054803AA
+- expected_values:
+    ESCAPE_LPFP_ACT: 69.11206
+  response: 7E80562054803B9
+- expected_values:
+    ESCAPE_LPFP_ACT: 70.48995
+  response: 7E80562054803CC
+- expected_values:
+    ESCAPE_LPFP_ACT: 70.63499
+  response: 7E80562054803CE
+- expected_values:
+    ESCAPE_LPFP_ACT: 74.84118
+  response: '7E8056205480408'
+- expected_values:
+    ESCAPE_LPFP_ACT: 75.05874
+  response: 7E805620548040B
+- expected_values:
+    ESCAPE_LPFP_ACT: 75.78395
+  response: '7E8056205480415'
+- expected_values:
+    ESCAPE_LPFP_ACT: 76.21907
+  response: 7E805620548041B
