@@ -1,8 +1,11 @@
 command_id: 7E0.7E8.22033C
 test_cases:
 - expected_values:
-    ESCAPE_TIP_V: 1.46973
-  response: 7E80562033C012D
+    ESCAPE_TIP_V: 1.43555
+  response: 7E80562033C0126
 - expected_values:
-    ESCAPE_TIP_V: 1.98242
-  response: 7E80562033C0196
+    ESCAPE_TIP_V: 2.48047
+  response: 7E80562033C01FC
+- expected_values:
+    ESCAPE_TIP_V: 2.50977
+  response: 7E80562033C0202
