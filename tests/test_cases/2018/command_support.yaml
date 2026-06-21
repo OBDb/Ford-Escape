@@ -86,3 +86,7 @@ supported_commands_by_ecu:
   - 0105:ECT
   - 010C:RPM
   - 010D:VSS
+unsupported_commands_by_ecu:
+  "7E2":
+  - 7E2.7EA.22DD04
+  - 7E2.7EA.22DD05

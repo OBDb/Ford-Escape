@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22038E
+test_cases:
+- expected_values:
+    ESCAPE_EVAP_V: 5
+  response: 7E80562038E082C
+- expected_values:
+    ESCAPE_EVAP_V: 5
+  response: 7E80562038E083B
+- expected_values:
+    ESCAPE_EVAP_V: 5
+  response: 7E80562038E0845
+- expected_values:
+    ESCAPE_EVAP_V: 5
+  response: 7E80562038E084F
+- expected_values:
+    ESCAPE_EVAP_V: 5
+  response: 7E80562038E0854
+- expected_values:
+    ESCAPE_EVAP_V: 5
+  response: 7E80562038E0863
+- expected_values:
+    ESCAPE_EVAP_V: 5
+  response: 7E80562038E0872
+- expected_values:
+    ESCAPE_EVAP_V: 5
+  response: 7E80562038E0890
+- expected_values:
+    ESCAPE_EVAP_V: 5
+  response: 7E80562038E08C2
