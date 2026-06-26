@@ -4,8 +4,8 @@ test_cases:
     ESCAPE_TP_RLO: 31
   response: 72E05622816026C
 - expected_values:
-    ESCAPE_TP_RLO: 38
-  response: 72E0562281602F8
+    ESCAPE_TP_RLO: 38.25
+  response: 72E0562281602FD
 - expected_values:
     ESCAPE_TP_RLO: 38.4
   response: '72E056228160300'
