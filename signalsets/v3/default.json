@@ -1,5 +1,5 @@
 { "commands": [
-{ "hdr": "720", "rax": "728", "cmd": {"22": "6185"}, "freq": 1, "filter": { "to": 2012 }, "dbgfilter": { "to": 2011 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "6185"}, "freq": 1, "filter": { "to": 2012 }, "dbgfilter": { "to": 2006, "years": [2008, 2009, 2010, 2011] },
   "signals": [
     {"id": "ESCAPE_FLI_ALT", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel tank level", "suggestedMetric": "fuelTankLevel"}
   ]},
@@ -323,11 +323,11 @@
   "signals": [
     {"id": "ESCAPE_GRILL_SHUT_DC", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Grill shutter duty cycle"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "091A"}, "freq": 0.25, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2018], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "091A"}, "freq": 0.25, "dbgfilter": { "to": 2006, "years": [2008, 2009, 2010, 2011, 2013, 2014, 2018], "from": 2026 },
   "signals": [
     {"id": "ESCAPE_ETC_ANG_DES", "path": "Engine", "fmt": { "len": 16, "max": 127.99, "div": 512, "unit": "degrees" }, "name": "Throttle angle, desired"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "093C"}, "freq": 0.25, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2018], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "093C"}, "freq": 0.25, "dbgfilter": { "to": 2006, "years": [2008, 2009, 2010, 2011, 2013, 2014, 2018], "from": 2026 },
   "signals": [
     {"id": "ESCAPE_ETC_ANG_ACT", "path": "Engine", "fmt": { "len": 16, "max": 127.99, "div": 512, "unit": "degrees" }, "name": "Throttle angle, actual"}
   ]},
@@ -335,7 +335,7 @@
   "signals": [
     {"id": "ESCAPE_AC_STATE", "path": "Climate", "fmt": { "len": 8, "max": 1, "unit": "offon" }, "name": "A/C compressor, state"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1126"}, "freq": 30, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2018, 2023, 2024], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1126"}, "freq": 30, "dbgfilter": { "to": 2006, "years": [2008, 2009, 2010, 2011, 2013, 2014, 2018, 2023, 2024], "from": 2026 },
   "signals": [
     {"id": "ESCAPE_ERT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "seconds" }, "name": "Engine run time"}
   ]},
@@ -343,7 +343,7 @@
   "signals": [
     {"id": "ESCAPE_EVAP_PURGE_CMD", "path": "Engine", "fmt": { "len": 16, "max": 100, "mul": 100, "div": 32768, "unit": "percent" }, "name": "Evaporative purge"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "116B"}, "freq": 0.25, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2018], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "116B"}, "freq": 0.25, "dbgfilter": { "to": 2006, "years": [2008, 2009, 2010, 2011, 2013, 2014, 2018], "from": 2026 },
   "signals": [
     {"id": "ESCAPE_IGN_TIM_CYL1", "path": "Engine", "fmt": { "len": 16, "max": 80, "min": -80, "div": 4, "sign": true, "unit": "degrees" }, "name": "Ignition timing, cylinder 1"}
   ]},
