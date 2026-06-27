@@ -5,6 +5,7 @@ supported_commands_by_ecu:
   "760":
   - 760.768.223201:ESCAPE_STEER_ANGLE
   "7DF":
+  - 7DF.0134
   - 7DF.0144
   - 7DF.221E1C:ESCAPE_TOT
   "7E0":
