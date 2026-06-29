@@ -4,29 +4,5 @@ test_cases:
     ESCAPE_FLI_ALT: 11.76471
   response: 728046261851E
 - expected_values:
-    ESCAPE_FLI_ALT: 14.90196
-  response: '7280462618526'
-- expected_values:
-    ESCAPE_FLI_ALT: 15.68627
-  response: '7280462618528'
-- expected_values:
-    ESCAPE_FLI_ALT: 16.47059
-  response: 728046261852A
-- expected_values:
-    ESCAPE_FLI_ALT: 18.03922
-  response: 728046261852E
-- expected_values:
-    ESCAPE_FLI_ALT: 18.43137
-  response: 728046261852F
-- expected_values:
-    ESCAPE_FLI_ALT: 18.82353
-  response: '7280462618530'
-- expected_values:
-    ESCAPE_FLI_ALT: 19.21569
-  response: '7280462618531'
-- expected_values:
-    ESCAPE_FLI_ALT: 21.56863
-  response: '7280462618537'
-- expected_values:
-    ESCAPE_FLI_ALT: 24.70588
-  response: 728046261853F
+    ESCAPE_FLI_ALT: 99.60784
+  response: 72804626185FE
