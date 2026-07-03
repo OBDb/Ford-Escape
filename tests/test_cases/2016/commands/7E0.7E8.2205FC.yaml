@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     ESCAPE_PCM_CYL_HEAD_T_SENS_2_RAW: 66.89062
   response: 7E8056205FC10B9
+- expected_values:
+    ESCAPE_PCM_CYL_HEAD_T_SENS_2_RAW: 105.625
+  response: 7E8056205FC1A68
