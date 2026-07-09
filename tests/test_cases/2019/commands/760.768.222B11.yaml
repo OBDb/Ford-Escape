@@ -1,0 +1,20 @@
+command_id: 760.768.222B11
+test_cases:
+- expected_values:
+    ESCAPE_LAT_G: 0
+  response: 76805622B110000
+- expected_values:
+    ESCAPE_LAT_G: 0.06
+  response: 76805622B110003
+- expected_values:
+    ESCAPE_LAT_G: 0.08
+  response: 76805622B110004
+- expected_values:
+    ESCAPE_LAT_G: 0.1
+  response: 76805622B110005
+- expected_values:
+    ESCAPE_LAT_G: -0.04
+  response: 76805622B11FFFE
+- expected_values:
+    ESCAPE_LAT_G: -0.02
+  response: 76805622B11FFFF
