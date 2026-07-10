@@ -4,5 +4,5 @@ test_cases:
     ESCAPE_LTFT: -4.6875
   response: 7E80462F4077A
 - expected_values:
-    ESCAPE_LTFT: 9.375
-  response: 7E80462F4078C
+    ESCAPE_LTFT: 10.15625
+  response: 7E80462F4078D
