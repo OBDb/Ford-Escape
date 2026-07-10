@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     ESCAPE_PCM_CYL_1_KNK_COMB_PERF_CNT: 27
   response: 7E8046205AC1B
+- expected_values:
+    ESCAPE_PCM_CYL_1_KNK_COMB_PERF_CNT: 29
+  response: 7E8046205AC1D

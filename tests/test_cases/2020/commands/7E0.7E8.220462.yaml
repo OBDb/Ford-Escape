@@ -4,11 +4,11 @@ test_cases:
     ESCAPE_WGDC: 14.99939
   response: '7E8056204621333'
 - expected_values:
+    ESCAPE_WGDC: 16.43982
+  response: 7E805620462150B
+- expected_values:
     ESCAPE_WGDC: 53.12195
   response: 7E80562046243FF
-- expected_values:
-    ESCAPE_WGDC: 61.76453
-  response: 7E8056204624F0F
 - expected_values:
     ESCAPE_WGDC: 94.91882
   response: 7E805620462797F

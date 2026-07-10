@@ -10,5 +10,8 @@ test_cases:
     ESCAPE_WARMUP_CLR: 238
   response: 7E80462F430EE
 - expected_values:
+    ESCAPE_WARMUP_CLR: 239
+  response: 7E80462F430EF
+- expected_values:
     ESCAPE_WARMUP_CLR: 255
   response: 7E80462F430FF
