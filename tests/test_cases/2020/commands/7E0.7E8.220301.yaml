@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220301
 test_cases:
 - expected_values:
-    ESCAPE_MAP_V: 0.34961
-  response: '7E8056203010166'
+    ESCAPE_MAP_V: 0.33789
+  response: 7E805620301015A
 - expected_values:
     ESCAPE_MAP_V: 0.48926
   response: 7E80562030101F5
