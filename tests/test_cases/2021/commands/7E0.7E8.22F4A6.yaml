@@ -41,10 +41,10 @@ test_cases:
     7E80762F4A6001BDFC6
     7E80762F4A6001BDFC6
 - expected_values:
-    ESCAPE_PCM_VEH_ODO: 183581
-  response: 7E80762F4A6001C0322
-- expected_values:
     ESCAPE_PCM_VEH_ODO: 189606.6
   response: |-
     7E80762F4A6001CEE7D
     7E80762F4A6001CEE82
+- expected_values:
+    ESCAPE_PCM_VEH_ODO: 190054.6
+  response: 7E80762F4A6001D0002
