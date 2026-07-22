@@ -4,8 +4,8 @@ test_cases:
     ODO: 14116.3
   response: 7E80641A60002276B
 - expected_values:
-    ODO: 14130.7
-  response: 7E80641A6000227FB
+    ODO: 14156.6
+  response: 7E80641A6000228FE
 - expected_values:
-    ODO: 14131.6
-  response: 7E80641A600022804
+    ODO: 14156.8
+  response: 7E80641A600022900
