@@ -15,6 +15,11 @@ test_cases:
     7E80562033415EF
     7E805620334164A
 - expected_values:
+    ESCAPE_PCM_CYL_HEAD_T_CORR: 89.39062
+  response: |-
+    7E805620334160E
+    7E8056203341659
+- expected_values:
     ESCAPE_PCM_CYL_HEAD_T_CORR: 91.4375
   response: |-
     7E80562033416DC
