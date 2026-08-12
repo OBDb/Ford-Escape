@@ -9,5 +9,10 @@ test_cases:
     7E80341463E
     7E80341463E
 - expected_values:
+    AAT: 30
+  response: |-
+    7E803414646
+    7E803414646
+- expected_values:
     AAT: 44
   response: '7E803414654'
