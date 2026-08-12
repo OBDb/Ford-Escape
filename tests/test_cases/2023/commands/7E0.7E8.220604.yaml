@@ -4,11 +4,11 @@ test_cases:
     ESCAPE_PCM_A_C_REFRIG_P: 558
   response: 7E805620604022E
 - expected_values:
-    ESCAPE_PCM_A_C_REFRIG_P: 728
-  response: 7E80562060402D8
+    ESCAPE_PCM_A_C_REFRIG_P: 1244
+  response: 7E80562060404DC
 - expected_values:
-    ESCAPE_PCM_A_C_REFRIG_P: 778
-  response: 7E805620604030A
+    ESCAPE_PCM_A_C_REFRIG_P: 1288
+  response: '7E8056206040508'
 - expected_values:
-    ESCAPE_PCM_A_C_REFRIG_P: 1324
-  response: 7E805620604052C
+    ESCAPE_PCM_A_C_REFRIG_P: 1909
+  response: '7E8056206040775'

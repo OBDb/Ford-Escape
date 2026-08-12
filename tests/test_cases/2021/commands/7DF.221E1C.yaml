@@ -25,6 +25,11 @@ test_cases:
     7E805621E1C057D
     7E805621E1C057D
 - expected_values:
+    ESCAPE_TOT: 92.25
+  response: |-
+    7E805621E1C05C4
+    7E805621E1C05C4
+- expected_values:
     ESCAPE_TOT: 96.625
   response: |-
     7E805621E1C060A
