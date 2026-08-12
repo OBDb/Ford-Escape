@@ -10,5 +10,5 @@ test_cases:
     ESCAPE_MAP_V: 0.74805
   response: 7E80562030102FE
 - expected_values:
-    ESCAPE_MAP_V: 3.11816
-  response: 7E8056203010C79
+    ESCAPE_MAP_V: 3.93848
+  response: 7E8056203010FC1

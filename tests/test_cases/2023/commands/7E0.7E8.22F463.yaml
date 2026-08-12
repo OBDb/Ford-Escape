@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     ESCAPE_PCM_ENG_REFERENCE_TRQ: 255
   response: 7E80562F46300FF
+- expected_values:
+    ESCAPE_PCM_ENG_REFERENCE_TRQ: 333
+  response: 7E80562F463014D

@@ -15,10 +15,10 @@ test_cases:
     7E80441447CAF
     7E80441447CAF
 - expected_values:
-    EQ_RAT: 0.97874
+    EQ_RAT: 0.97917
   response: |-
-    7E80441447D45
-    7E80441447D47
+    7E80441447D48
+    7E80441447D55
 - expected_values:
     EQ_RAT: 1.00002
   response: |-
