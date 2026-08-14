@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     ESCAPE_CAT: 5.25
   response: 7E8056204610B50
+- expected_values:
+    ESCAPE_CAT: 11.15625
+  response: 7E8056204610CCA

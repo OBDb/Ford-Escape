@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     ESCAPE_AC_P: 68.74789
   response: 7E80562039300ED
+- expected_values:
+    ESCAPE_AC_P: 245.40387
+  response: 7E805620393034E
