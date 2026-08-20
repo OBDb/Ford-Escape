@@ -4,8 +4,8 @@ test_cases:
     ESCAPE_IAT_SENS_V: 1.46139
   response: 7E805621279012B
 - expected_values:
-    ESCAPE_IAT_SENS_V: 3.37732
-  response: 7E80562127902B3
+    ESCAPE_IAT_SENS_V: 2.89345
+  response: '7E8056212790250'
 - expected_values:
     ESCAPE_IAT_SENS_V: 3.43109
   response: 7E80562127902BE
