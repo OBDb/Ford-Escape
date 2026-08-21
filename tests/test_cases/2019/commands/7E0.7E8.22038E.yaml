@@ -5,4 +5,4 @@ test_cases:
   response: 7E80562038E082C
 - expected_values:
     ESCAPE_EVAP_V: 5
-  response: 7E80562038E08C2
+  response: 7E80562038E09FD
