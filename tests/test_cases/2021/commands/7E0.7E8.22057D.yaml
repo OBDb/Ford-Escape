@@ -24,5 +24,5 @@ test_cases:
     7E80462057DA2
     7E80462057DA2
 - expected_values:
-    ESCAPE_AAT_ALT: 61
-  response: 7E80462057DCA
+    ESCAPE_AAT_ALT: 63
+  response: 7E80462057DCE
