@@ -40,5 +40,5 @@ test_cases:
     7E804414488BE
     NO DATA
 - expected_values:
-    EQ_RAT: 1.51855
-  response: 7E8044144C25F
+    EQ_RAT: 1.52892
+  response: 7E8044144C3B3
