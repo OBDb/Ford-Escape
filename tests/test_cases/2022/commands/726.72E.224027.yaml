@@ -1,6 +1,9 @@
 command_id: 726.72E.224027
 test_cases:
 - expected_values:
+    ESCAPE_BATT_AGE: 0
+  response: '72E056240270000'
+- expected_values:
     ESCAPE_BATT_AGE: 223
   response: 72E0562402700DF
 - expected_values:
