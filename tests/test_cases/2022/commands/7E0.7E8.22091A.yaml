@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     ESCAPE_ETC_ANG_DES: 14
   response: 7E80562091A1C00
+- expected_values:
+    ESCAPE_ETC_ANG_DES: 14.78711
+  response: 7E80562091A1D93

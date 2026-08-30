@@ -7,6 +7,9 @@ test_cases:
     ESCAPE_ERT: 9
   response: '7E80462112609'
 - expected_values:
+    ESCAPE_ERT: 23
+  response: '7E80462112617'
+- expected_values:
     ESCAPE_ERT: 243
   response: 7E804621126F3
 - expected_values:

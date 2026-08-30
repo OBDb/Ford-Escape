@@ -7,6 +7,9 @@ test_cases:
     ESCAPE_IGN_TIM_CYL1: 28
   response: 7E80562116B0070
 - expected_values:
+    ESCAPE_IGN_TIM_CYL1: 28.25
+  response: 7E80562116B0071
+- expected_values:
     ESCAPE_IGN_TIM_CYL1: 36.75
   response: 7E80562116B0093
 - expected_values:
