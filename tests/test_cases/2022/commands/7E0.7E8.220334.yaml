@@ -10,5 +10,5 @@ test_cases:
     ESCAPE_PCM_CYL_HEAD_T_CORR: 32.0625
   response: '7E8056203340804'
 - expected_values:
-    ESCAPE_PCM_CYL_HEAD_T_CORR: 82.0625
-  response: '7E8056203341484'
+    ESCAPE_PCM_CYL_HEAD_T_CORR: 88.26562
+  response: '7E8056203341611'
