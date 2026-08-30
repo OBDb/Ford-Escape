@@ -12,3 +12,12 @@ test_cases:
 - expected_values:
     ESCAPE_ENG_LOAD_PCT: 36.07843
   response: 7E80462F4045C
+- expected_values:
+    ESCAPE_ENG_LOAD_PCT: 54.5098
+  response: 7E80462F4048B
+- expected_values:
+    ESCAPE_ENG_LOAD_PCT: 54.90196
+  response: 7E80462F4048C
+- expected_values:
+    ESCAPE_ENG_LOAD_PCT: 71.76471
+  response: 7E80462F404B7
