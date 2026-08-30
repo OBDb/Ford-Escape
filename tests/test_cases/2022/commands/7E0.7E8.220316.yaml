@@ -7,6 +7,9 @@ test_cases:
     ESCAPE_VCT_INT_DUTY: 32.81555
   response: 7E8056203162A01
 - expected_values:
+    ESCAPE_VCT_INT_DUTY: 36.12976
+  response: 7E8056203162E3F
+- expected_values:
     ESCAPE_VCT_INT_DUTY: 36.75537
   response: 7E8056203162F0C
 - expected_values:
