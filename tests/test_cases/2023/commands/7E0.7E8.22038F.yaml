@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22038F
 test_cases:
 - expected_values:
-    ESCAPE_ECT: 34.45312
-  response: 7E80562038F089D
+    ESCAPE_ECT: 32.42188
+  response: 7E80562038F081B
 - expected_values:
     ESCAPE_ECT: 63.95312
   response: 7E80562038F0FFD
@@ -10,5 +10,5 @@ test_cases:
     ESCAPE_ECT: 80
   response: 7E80562038F1400
 - expected_values:
-    ESCAPE_ECT: 92.10938
-  response: 7E80562038F1707
+    ESCAPE_ECT: 97.90625
+  response: 7E80562038F187A
