@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     ESCAPE_CAT: -40
   response: '7E8056204610000'
+- expected_values:
+    ESCAPE_CAT: 19.51562
+  response: 7E8056204610EE1

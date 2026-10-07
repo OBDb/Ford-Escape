@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F431
 test_cases:
 - expected_values:
-    ESCAPE_DIST_DTC_CLR: 5839
-  response: 7E80562F43116CF
+    ESCAPE_DIST_DTC_CLR: 5323
+  response: 7E80562F43114CB
 - expected_values:
     ESCAPE_DIST_DTC_CLR: 45409
   response: 7E80562F431B161

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220460
 test_cases:
 - expected_values:
-    ESCAPE_CAT_SENS_V: 2.34082
-  response: 7E805620460095D
+    ESCAPE_CAT_SENS_V: 1.11914
+  response: 7E805620460047A
 - expected_values:
     ESCAPE_CAT_SENS_V: 2.49219
   response: 7E80562046009F8
