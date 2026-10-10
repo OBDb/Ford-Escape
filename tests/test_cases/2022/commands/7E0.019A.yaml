@@ -85,7 +85,7 @@ test_cases:
     7E81008419A0E004900
     7E821FFF30000000000
 - expected_values:
-    EHEV_MODE: CSM
+    EHEV_MODE: CDM
     EHEV_MODE_SUP: 1
     HEV_BATT_A: 0
     HEV_BATT_A_SUP: 1
@@ -97,7 +97,7 @@ test_cases:
     7E81008419A0E025500
     7E82100000000000000
 - expected_values:
-    EHEV_MODE: CSM
+    EHEV_MODE: Not PSA
     EHEV_MODE_SUP: 1
     HEV_BATT_A: 0
     HEV_BATT_A_SUP: 1
