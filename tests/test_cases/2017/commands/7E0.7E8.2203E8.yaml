@@ -14,4 +14,7 @@ test_cases:
   response: 7E8056203E8F4E4
 - expected_values:
     ESCAPE_OAR: 0
+  response: 7E8056203E8F78F
+- expected_values:
+    ESCAPE_OAR: 0
   response: 7E8056203E8FA73

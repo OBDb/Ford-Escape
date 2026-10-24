@@ -4,8 +4,8 @@ test_cases:
     ESCAPE_TIP_ABS: 14.24966
   response: 7E80562033E324F
 - expected_values:
-    ESCAPE_TIP_ABS: 14.42669
-  response: 7E80562033E32EF
+    ESCAPE_TIP_ABS: 14.43001
+  response: 7E80562033E32F2
 - expected_values:
     ESCAPE_TIP_ABS: 15.31294
   response: 7E80562033E3610

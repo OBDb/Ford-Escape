@@ -4,6 +4,9 @@ test_cases:
     ESCAPE_DIST_DTC_CLR: 5323
   response: 7E80562F43114CB
 - expected_values:
+    ESCAPE_DIST_DTC_CLR: 6435
+  response: 7E80562F4311923
+- expected_values:
     ESCAPE_DIST_DTC_CLR: 45409
   response: 7E80562F431B161
 - expected_values:
