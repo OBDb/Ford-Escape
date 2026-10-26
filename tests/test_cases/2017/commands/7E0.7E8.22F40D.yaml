@@ -6,6 +6,11 @@ test_cases:
     22F40D
     7E80462F40D00
 - expected_values:
+    ESCAPE_VSS: 53
+  response: |-
+    22F40D
+    7E80462F40D35
+- expected_values:
     ESCAPE_VSS: 0
   response: 7E80462F40D00
 - expected_values:
