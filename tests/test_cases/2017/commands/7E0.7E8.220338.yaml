@@ -4,8 +4,8 @@ test_cases:
     ESCAPE_ETC_TRIM_LRN: 0.16797
   response: '7E8056203380056'
 - expected_values:
-    ESCAPE_ETC_TRIM_LRN: 0.42969
-  response: 7E80562033800DC
+    ESCAPE_ETC_TRIM_LRN: 0.48828
+  response: 7E80562033800FA
 - expected_values:
     ESCAPE_ETC_TRIM_LRN: 1.02148
   response: 7E805620338020B
