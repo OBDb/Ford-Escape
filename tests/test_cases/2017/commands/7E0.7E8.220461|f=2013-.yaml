@@ -7,5 +7,8 @@ test_cases:
     ESCAPE_CAT: -18
   response: '7E8056204610580'
 - expected_values:
+    ESCAPE_CAT: 14.17188
+  response: 7E8056204610D8B
+- expected_values:
     ESCAPE_CAT: 19.51562
   response: 7E8056204610EE1
