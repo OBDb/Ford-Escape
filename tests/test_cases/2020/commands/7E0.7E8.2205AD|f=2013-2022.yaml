@@ -4,6 +4,9 @@ test_cases:
     ESCAPE_PCM_CYL_2_KNK_COMB_PERF_CNT: 0
   response: 7E8046205AD00
 - expected_values:
+    ESCAPE_PCM_CYL_2_KNK_COMB_PERF_CNT: 1
+  response: 7E8046205AD01
+- expected_values:
     ESCAPE_PCM_CYL_2_KNK_COMB_PERF_CNT: 6
   response: 7E8046205AD06
 - expected_values:
