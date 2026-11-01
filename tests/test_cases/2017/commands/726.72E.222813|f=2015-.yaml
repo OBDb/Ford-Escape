@@ -11,6 +11,11 @@ test_cases:
     222813
     72E05622813032F
 - expected_values:
+    ESCAPE_TP_FL: 40.8
+  response: |-
+    222813
+    72E056228130330
+- expected_values:
     ESCAPE_TP_FL: 42
   response: |-
     222813

@@ -6,10 +6,10 @@ test_cases:
     010C
     7E804410C0C5F
 - expected_values:
-    RPM: 1338.5
+    RPM: 2240.5
   response: |-
     010C
-    7E804410C14EA
+    7E804410C2302
 - expected_values:
     RPM: 789
   response: |-
