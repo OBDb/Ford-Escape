@@ -32,3 +32,4 @@ supported_commands_by_ecu:
   - 0142:VPWR
   - 0143:LOAD_ABS
   - 7E0.7E8.220301:ESCAPE_MAP_V
+  - 7E0.7E8.2203EC:ESCAPE_IGN_CORR_CYL1
