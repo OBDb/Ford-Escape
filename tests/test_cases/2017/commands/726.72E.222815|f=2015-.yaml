@@ -16,8 +16,8 @@ test_cases:
     222815
     72E056228150332
 - expected_values:
-    ESCAPE_TP_RRO: 29.75
-  response: '72E056228150253'
+    ESCAPE_TP_RRO: 29.7
+  response: '72E056228150252'
 - expected_values:
     ESCAPE_TP_RRO: 38.3
   response: 72E0562281502FE
