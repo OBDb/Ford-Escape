@@ -7,17 +7,17 @@ test_cases:
     ESCAPE_OAR: 0.32526
   response: 7E8056203E814D1
 - expected_values:
-    ESCAPE_OAR: 0
+    ESCAPE_OAR: -0.19476
   response: 7E8056203E8F389
 - expected_values:
-    ESCAPE_OAR: 0
+    ESCAPE_OAR: -0.17358
   response: 7E8056203E8F4E4
 - expected_values:
-    ESCAPE_OAR: 0
+    ESCAPE_OAR: -0.15186
   response: 7E8056203E8F648
 - expected_values:
-    ESCAPE_OAR: 0
+    ESCAPE_OAR: -0.1319
   response: 7E8056203E8F78F
 - expected_values:
-    ESCAPE_OAR: 0
+    ESCAPE_OAR: -0.08673
   response: 7E8056203E8FA73
