@@ -46,7 +46,7 @@
   "signals": [
     {"id": "ESCAPE_BATT_TEMP", "path": "Battery", "fmt": { "len": 8, "max": 100, "min": -40, "add": -40, "unit": "celsius" }, "name": "Battery temperature"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "DD01"}, "freq": 5, "dbgfilter": { "to": 2012, "years": [2018], "from": 2020 },
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "DD01"}, "freq": 5, "filter": { "to": 2019, "from": 2027 }, "dbgfilter": { "to": 2012, "years": [2018] },
   "signals": [
     {"id": "ESCAPE_ODO_726", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer, instrument panel", "suggestedMetric": "odometer"}
   ]},
