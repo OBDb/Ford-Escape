@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2203E8
+test_cases:
+- expected_values:
+    ESCAPE_OAR: -1
+  response: 7E8056203E8C000
+- expected_values:
+    ESCAPE_OAR: -0.41693
+  response: 7E8056203E8E551
+- expected_values:
+    ESCAPE_OAR: -0.37958
+  response: 7E8056203E8E7B5
+- expected_values:
+    ESCAPE_OAR: -0.36047
+  response: 7E8056203E8E8EE

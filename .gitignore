@@ -1,3 +1,4 @@
 tests/schemas/
 __pycache__
-notes.txt
+tests/*.py
+.vscode/*.json
