@@ -62,11 +62,11 @@
   "signals": [
     {"id": "ESCAPE_TP_RLO", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmax": 150, "unit": "psi" }, "name": "Rear left outer tire pressure", "suggestedMetric": "rearLeftTirePressure"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "2817"}, "freq": 5, "filter": { "from": 2015 }, "dbgfilter": { "years": [2018], "from": 2026 },
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "2817"}, "freq": 5, "filter": { "from": 2015 }, "dbgfilter": { "years": [2018], "from": 2020 },
   "signals": [
     {"id": "ESCAPE_TP_RRI", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmin": 0, "nullmax": 150, "unit": "psi" }, "name": "Rear right inner tire pressure", "suggestedMetric": "rearRightTirePressure"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "2818"}, "freq": 5, "filter": { "from": 2015 }, "dbgfilter": { "years": [2018], "from": 2026 },
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "2818"}, "freq": 5, "filter": { "from": 2015 }, "dbgfilter": { "years": [2018], "from": 2020 },
   "signals": [
     {"id": "ESCAPE_TP_RLI", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmin": 0, "nullmax": 150, "unit": "psi" }, "name": "Rear left inner tire pressure", "suggestedMetric": "rearLeftTirePressure"}
   ]},
