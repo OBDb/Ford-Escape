@@ -42,3 +42,6 @@ supported_commands_by_ecu:
   - 014C:TAC_PCT
   - 7E0.7E8.220301:ESCAPE_MAP_V
   - 7E0.7E8.2203EC:ESCAPE_IGN_CORR_CYL1
+unsupported_commands_by_ecu:
+  "760":
+  - 760.768.222B06:ESCAPE_FR_VSS
