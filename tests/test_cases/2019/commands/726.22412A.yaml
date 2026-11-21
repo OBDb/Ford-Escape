@@ -1,0 +1,20 @@
+command_id: 726.22412A
+test_cases:
+- expected_values:
+    ESCAPE_DRIVER_WINDOW: 420
+  response: 72E0562412A01A4
+- expected_values:
+    ESCAPE_DRIVER_WINDOW: 421
+  response: 72E0562412A01A5
+- expected_values:
+    ESCAPE_DRIVER_WINDOW: 423
+  response: 72E0562412A01A7
+- expected_values:
+    ESCAPE_DRIVER_WINDOW: 439
+  response: 72E0562412A01B7
+- expected_values:
+    ESCAPE_DRIVER_WINDOW: 449
+  response: 72E0562412A01C1
+- expected_values:
+    ESCAPE_DRIVER_WINDOW: 538
+  response: 72E0562412A021A

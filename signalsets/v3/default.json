@@ -10,7 +10,7 @@
   "signals": [
     {"id": "ESCAPE_TPMS_WARN", "path": "Tires", "fmt": {"bix": 2, "len": 1, "max": 1, "unit": "offon" }, "name": "Tire pressure warning"}
   ]},
-{ "hdr": "726", "cmd": {"22": "407E"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2015, 2016], "from": 2018 },
+{ "hdr": "726", "cmd": {"22": "407E"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2016, 2018], "from": 2020 },
   "signals": [
     {"id": "ESCAPE_EXTERIOR_LIGHT_STATE", "path": "Lights", "name": "Exterior lighting state", "fmt": {"bix": 0, "len": 1, "map": {
           "0":   { "description": "0", "value": "0" },
@@ -18,15 +18,15 @@
         }}
     }
   ]},
-{ "hdr": "726", "cmd": {"22": "412A"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
+{ "hdr": "726", "cmd": {"22": "412A"}, "freq": 1, "dbgfilter": { "to": 2014, "years": [2016, 2018], "from": 2020 },
   "signals": [
     {"id": "ESCAPE_DRIVER_WINDOW", "path": "Windows", "fmt": { "len": 16, "max": 65535, "unit": "percent" }, "name": "Driver window"}
   ]},
-{ "hdr": "726", "cmd": {"22": "7151"}, "freq": 4, "dbgfilter": { "to": 2012, "years": [2015, 2016], "from": 2018 },
+{ "hdr": "726", "cmd": {"22": "7151"}, "freq": 4, "dbgfilter": { "to": 2012, "years": [2016, 2018], "from": 2020 },
   "signals": [
     {"id": "ESCAPE_HIGHBEAM_STATUS", "path": "Lights", "fmt": { "len": 16, "max": 2, "unit": "offon" }, "name": "High beam status"}
   ]},
-{ "hdr": "726", "cmd": {"22": "C150"}, "freq": 3, "dbgfilter": { "to": 2012, "years": [2015, 2016], "from": 2018 },
+{ "hdr": "726", "cmd": {"22": "C150"}, "freq": 3, "dbgfilter": { "to": 2012, "years": [2016, 2018], "from": 2020 },
   "signals": [
     {"id": "ESCAPE_TRUNK_OPEN",          "path": "Doors", "fmt": {"bix": 11, "len": 1, "max": 1, "unit": "noyes" }, "name": "Trunk ajar?"},
     {"id": "ESCAPE_RRD_OPEN",            "path": "Doors", "fmt": {"bix": 12, "len": 1, "max": 1, "unit": "noyes" }, "name": "Rear right door ajar?"},
@@ -34,11 +34,11 @@
     {"id": "ESCAPE_DRIVER_DOOR_OPEN",    "path": "Doors", "fmt": {"bix": 16, "len": 1, "max": 1, "unit": "noyes" }, "name": "Driver door ajar"},
     {"id": "ESCAPE_PASSENGER_DOOR_OPEN", "path": "Doors", "fmt": {"bix": 17, "len": 1, "max": 1, "unit": "noyes" }, "name": "Passenger door ajar?"}
   ]},
-{ "hdr": "726", "cmd": {"22": "C154"}, "freq": 3, "dbgfilter": { "to": 2012, "years": [2015, 2016], "from": 2018 },
+{ "hdr": "726", "cmd": {"22": "C154"}, "freq": 3, "dbgfilter": { "to": 2012, "years": [2016, 2018], "from": 2020 },
   "signals": [
     {"id": "ESCAPE_HOOD_OPEN", "path": "Doors", "fmt": { "len": 1, "max": 1, "unit": "noyes" }, "name": "Hood ajar?"}
   ]},
-{ "hdr": "726", "cmd": {"22": "C259"}, "freq": 2, "dbgfilter": { "to": 2012, "years": [2015, 2016], "from": 2018 },
+{ "hdr": "726", "cmd": {"22": "C259"}, "freq": 2, "dbgfilter": { "to": 2012, "years": [2016, 2018], "from": 2020 },
   "signals": [
     {"id": "ESCAPE_CENTRAL_LOCK_STATUS", "path": "Doors", "name": "Lock status", "fmt": {"len": 8, "map": {
           "0": { "description": "Unlocked", "value": "UNLOCKED" },
